@@ -1,0 +1,7770 @@
+[
+  {
+    "id": "aff5479b81c95b0194f58dbaaa041332",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "d05fc8c61137b99b02b70625b5eb0eae",
+    "normalized_answer": 3
+  },
+  {
+    "id": "343662060cf0598e66985d6160c93113",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "a47efce6e660965efb52ca6986259d7d",
+    "normalized_answer": "16.9"
+  },
+  {
+    "id": "cb526bbab4836632b87da0f0fa92c610",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "be0c17beef6331fcfc1edfa16a711157",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "2767ad2e7c4ccc13a9f2c64dd4325f84",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "b1fa224c74a39b8861ecdd01b1d6ab5a",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "62d6436a6bc6c3bf9a96dd82d6ec8f4d",
+    "normalized_answer": 4
+  },
+  {
+    "id": "f20376002f9a9ce347d5caedd84a24fc",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "7f0251e424358f13865f42951e264b74",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "7baf38e30979cfb610142de93977a5f7",
+    "normalized_answer": 3
+  },
+  {
+    "id": "9629416750ea0cb3e80b92a76e75205a",
+    "normalized_answer": "10.8"
+  },
+  {
+    "id": "58539c145b55895eb9bba5315af77784",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "ab7be24a445c653c09ea2bdf72c01b8e",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "a0d9809acaadc072a9208daf4e66691c",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "eae026c6488f7400443b301040e48ade",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "5f3f353f9196f82b246432c77dee6075",
+    "normalized_answer": 13.87
+  },
+  {
+    "id": "bb6fd96a2058ba94ffd90f496c242376",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "24df299cc250dcf1c002781d63f9a3e5",
+    "normalized_answer": 2
+  },
+  {
+    "id": "78c290f41709508a59e210d0402cdc38",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "19f9d6c50c4408632d8b74f7322bab39",
+    "normalized_answer": 2
+  },
+  {
+    "id": "84fc8d606dd083dab4ec2caee54cae88",
+    "normalized_answer": 8.12
+  },
+  {
+    "id": "44f11524751e2415e9bd98b3c5757e39",
+    "normalized_answer": "8.0"
+  },
+  {
+    "id": "9836654ccbbe7a1e921960178fad228f",
+    "normalized_answer": "8.1"
+  },
+  {
+    "id": "fe8056e6929456b3d0e7676c0b642c6a",
+    "normalized_answer": 13.65
+  },
+  {
+    "id": "0927dd0328ec1138991ee60b20de5681",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "757b45cfc6d94903bf9f5e9dca73d493",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "1d5309fa4f01c62120bbc03d69fb29d9",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "3bc4de14e3ed7a81a6bff07cfe74f7ac",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "5ac94a2341c1d2f7b4f132172a46ceb0",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "c93db7eb62e8930cea17ef439e099fbe",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "888527ab8442276e8e9f8ce3d9bc0a20",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "664dce6f776054867e5277f9daab413b",
+    "normalized_answer": 3
+  },
+  {
+    "id": "c47a05a926d36e11098e207685abd2f4",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "926833cd490ccbcd3b7bb0fc3b7a9d5e",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "6acb098a91a27531ed685dfd9d048bcd",
+    "normalized_answer": 1
+  },
+  {
+    "id": "bb8b6454e9496853a70b9369a54473af",
+    "normalized_answer": 1
+  },
+  {
+    "id": "d206fa35b3e6fb3820826dca5c208164",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "da070e97968167e9ddf33c88129e4b96",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "2203975435d2af8870ac484ce79f8cd9",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "83b21cc02e1e02d6986616d364c0dc6c",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "1e022efe63a23138b3b240e2d5242cc6",
+    "normalized_answer": 3
+  },
+  {
+    "id": "3150f37bbacc8fd50399c0bc916b9635",
+    "normalized_answer": 10.83
+  },
+  {
+    "id": "22ab3bef3c4a272cdffe0572c05d60cc",
+    "normalized_answer": "9"
+  },
+  {
+    "id": "15767045e28541e80865a5278ef45b15",
+    "normalized_answer": 1
+  },
+  {
+    "id": "4c0ef335b516b7a7067041093590450c",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "0b7e16f38c9e373b86d05933ef6cc641",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "53cd68b1125de1846120b2a0357fe90d",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "1df2a797578c8b487b1a05b100f665a8",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "e94cfce0e9e46122b1d05412ea5e643e",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "b8ab4a53084e435692dae8d3a67431ae",
+    "normalized_answer": "1.9"
+  },
+  {
+    "id": "5fe96a38ea3c310a6d77a4ac54f692f7",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "fad6fff3857adf0b85fe2c397383b0c6",
+    "normalized_answer": 3
+  },
+  {
+    "id": "b6891eac3c3e851a41cf688e14c301c2",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "3778998d20e90e32f03e0bbff49cb707",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "c2ecbf6aece4499214cfd09b93709343",
+    "normalized_answer": 1
+  },
+  {
+    "id": "2bf652370ac0074c6d16627f37a82c58",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "54bbfd30801c10dbd9dbd1089aa6703f",
+    "normalized_answer": 15.49
+  },
+  {
+    "id": "2ebc5747964791e23617dcf6a03b3f35",
+    "normalized_answer": 9.48
+  },
+  {
+    "id": "7347794d762906231a379299979b8ba2",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "fec8cb71ddd18225ccf6e331fdfe7549",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "2624a23d4b3ef791ce7b0dcbe5a50d54",
+    "normalized_answer": 0
+  },
+  {
+    "id": "b19a97f7daa795c5038e0dfb67cdf439",
+    "normalized_answer": "9.4"
+  },
+  {
+    "id": "79148d5b0c128fa770e7dc676381d176",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "63b6d8380a2ed1057ec997e7b4bb128b",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "9dc04f11dfc1497e04271d1195c2995b",
+    "normalized_answer": 1
+  },
+  {
+    "id": "46c93b990d6b8254f271aa3230204cf7",
+    "normalized_answer": 0.74
+  },
+  {
+    "id": "3c4e049f361014d9446fe9712d6f4c29",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "20834a086f04e5d6ad11ff27f221263d",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "aa75eeb306036829c3c0cad689f0f741",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "d09ebfffcdd52ec094434c4609403d57",
+    "normalized_answer": 4
+  },
+  {
+    "id": "6231be3783f2aa936628e440d9382151",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "fe1ea9b2a9f2bfe4cb7bf7d7d60715a4",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "fd78cea71437d344e16cdcc3471b5f9d",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "972417cde039cb0a9821824a78487c4e",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "508707f3a5d2a9626b81b633fc51c1bd",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "6d668e64a2cba8337f44279e51a5f40f",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "574d020df3006903aba640db6e97c04b",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "100a552cf104a847aeeb17708a83e75c",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "bad84c58023eb5297ec4cb86d550343f",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "01764319b960db79f72fa5b4a84eba32",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "df61731f9a1063f89d7e122ddc837729",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "aacdec511507bee38df5d28cc72843a6",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "88f35f5162c59e07b0531e44717f3d76",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "1a392513345fd7d4c2aecbb4e4c0f944",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "df08580a5e069062eac994c0b4cb017c",
+    "normalized_answer": "11.4"
+  },
+  {
+    "id": "f21729bbaf7ade6077de4db90ecde1a4",
+    "normalized_answer": "10.4"
+  },
+  {
+    "id": "14c0d93714d02946ffb4b26d86e6c908",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "fc5c69a4bf4d88fdd3d4226dd12d182b",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "8c1b9ac152f58bc9ac007c693d81280b",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "0939f3d91ef5f312eeca11660d934ec3",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "5c2109524b332002ac61b4183c2b5ce7",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "811047a3fdee2f17b8601568e1aaabcf",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "6295b83f8f8a7a7b7428d622f45878e8",
+    "normalized_answer": 2.79
+  },
+  {
+    "id": "5dd6e1dab49a3befc57aa0925d4649f2",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "fe14bd3566609e1d09c0a9fbd6835d5e",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "74c630c14311c130651722d2796e2cb9",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "0c07c3419653566fa39fc898b10dea0f",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "c09fc381b8960971c53f0e9ef2463d75",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "d9c3cebea12c8844ecff43bd611e849e",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "7f5f5082d1367021ca3d85f4acbdf143",
+    "normalized_answer": "4.9"
+  },
+  {
+    "id": "31a8d750cb241b8c1cba716152287fdb",
+    "normalized_answer": 2.39
+  },
+  {
+    "id": "6541e75b48a6aee083bd1590713496e1",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "b04da321368f5e210a1edbd0b481faab",
+    "normalized_answer": "9"
+  },
+  {
+    "id": "629cc63701d82b78150355ae8b2ee47d",
+    "normalized_answer": 2
+  },
+  {
+    "id": "7f8594a87c9498f19088a716bb4baa11",
+    "normalized_answer": "7.1"
+  },
+  {
+    "id": "3c92ff14b79b6508b2ccbc908f70fa93",
+    "normalized_answer": 2
+  },
+  {
+    "id": "e207eb5ff4b53a67bdb108d4d290ad10",
+    "normalized_answer": 1.3
+  },
+  {
+    "id": "8a707597b0a4d4eaeba45d0fbcf3c019",
+    "normalized_answer": 2
+  },
+  {
+    "id": "5fe28287e8dc7e761f61aa0b5b5e16de",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "9432ec8c2f7fa002134e98a5c65373ab",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "0805e940ec5a887451a1b87bb1a39267",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "7be63640ba5492accf660bd9949ba096",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "eb3e0938d3d637b46c1ed9fa8795a625",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "34cc4b1544bb288bf4ba2ee1c4a440f3",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "1525048bb97f6316de307427f17bd5a0",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "301654e2dab3de8ebdbf921522ae6a1e",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "e935b97afd2559b42148d68c3887c2b8",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "32f4c725ca86e1d1793f97d40cd91d18",
+    "normalized_answer": 1
+  },
+  {
+    "id": "6ed33bb4babfd2839756a109e4118aa9",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "fb0ef32117b05d057d31489da857f0ff",
+    "normalized_answer": 2
+  },
+  {
+    "id": "278f7a65016e15d4bc99b88fd44e84d4",
+    "normalized_answer": 3
+  },
+  {
+    "id": "cc222af23f3bea708afcb7bc1cc58797",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "cd5acc3fcfd01b901b12776127b84eb0",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "78393cec0ccdf1901e67078c677b3586",
+    "normalized_answer": 1.42
+  },
+  {
+    "id": "e9bd4537567a820d8e47c036c331f8da",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "df9f7ae832efb9d2287b5a03aec9a286",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "f0487ca9a06d1599674705212f7b2096",
+    "normalized_answer": 6.53
+  },
+  {
+    "id": "f9740574ee7e99f4e7f91261d93a2e00",
+    "normalized_answer": "5.5"
+  },
+  {
+    "id": "c49750b93849e6da1713c4942ec309da",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "335e69e92b038021b943318d3da041f3",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "3417e424e13e722dc0080b2971a103ea",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "c75601c111969604c6ec7da127c4e937",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "a6ae6ae72f1a47f45d19e4f6dd62d55f",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "fc69f5dd771338bf78d0b3db020c230e",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "2604f4a3632ac8c418924f31bcb1fb20",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "e7e07e148fc545dd4f6a73561a1a220e",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "7a397d13af5732900240b227a7afc7e6",
+    "normalized_answer": "10"
+  },
+  {
+    "id": "c7c50875a8772a9505812b42353518c5",
+    "normalized_answer": "4.0"
+  },
+  {
+    "id": "128e301cf74b464cbe0a837e5909bca9",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "65b943020e00f603fdfad40aedba4c01",
+    "normalized_answer": 12.51
+  },
+  {
+    "id": "84e9e271eaedc373ef92c9b787e29298",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "86b8b2e919e9dec3828714b0c519b1df",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "c8729ec060f6e881e7429cede1d0195f",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "b337d121d8bb1c49d56ebeb4ca03a71d",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "bc63771838acb58c6f314c4dc0ebbe9b",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "aa246e1f0bda75a1756052871990d191",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "d9b3c136e0b5c29d2cc8e479f9ec4da0",
+    "normalized_answer": "0.6"
+  },
+  {
+    "id": "e24f7eac59182777eafbaf8a356844ca",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "3374d966d23f10770fd0739ee80d0ee7",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "6362e8aac566add54601a1edd9146468",
+    "normalized_answer": "8.2"
+  },
+  {
+    "id": "13bd7028fdd1314ee5a089ae586d5d4d",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "cefb6e85cde4e813635441bfe0dc870b",
+    "normalized_answer": "1.1"
+  },
+  {
+    "id": "43d7608ad59f70d909e830d9e0b88719",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "291e0cc1f06b9159e5e57b0869199fa8",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "e8248ce5c6046622ac4a5ec75d8de6cc",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "e4e6bd49606b80b2536cf77232032927",
+    "normalized_answer": 4
+  },
+  {
+    "id": "64fe91df43a4e695867211bd37205153",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "7f3c8d6d3cd19ca82e231d5afc8cf4ac",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "82aa75800c4519fae300828ece7c5d65",
+    "normalized_answer": 9.59
+  },
+  {
+    "id": "c73a331e6eccb709cb6373545efca5f3",
+    "normalized_answer": 7.96
+  },
+  {
+    "id": "89b2a5022e2d6aac0fa30aeb34c06fcf",
+    "normalized_answer": "9"
+  },
+  {
+    "id": "806e0b30804a02e0bafab7070a026d9b",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "af23344642f31c038447e8d18226653a",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "5d621d524a79c027739d67565458a5d0",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "fdce142d6b475de61c098e1ab6dd887c",
+    "normalized_answer": 1.69
+  },
+  {
+    "id": "f0435331e85b052d377ed866fc69f4bf",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "1914a80f509fb16068ebbbb3c4c28590",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "801828a216d8e0127de9fb1fe2c11485",
+    "normalized_answer": 8.04
+  },
+  {
+    "id": "23179be776a97fa91118b9b0cca346f5",
+    "normalized_answer": 7.42
+  },
+  {
+    "id": "47c519ddf764fb1f499daf385eae4ab1",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "0c15b24c21bde33132da757583df457c",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "87c8c952abf79d96eebd065db4546f77",
+    "normalized_answer": 3.99
+  },
+  {
+    "id": "77e158a0e6be6c5ed2db5bfeade38cdb",
+    "normalized_answer": "13.8"
+  },
+  {
+    "id": "8c4010258a77367ea82e277bb3c54f9c",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "86d86de77b9d6b230f6ad8e87ef2b299",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "b1fd285d7fc4e8445bdf620c26327afd",
+    "normalized_answer": 12.23
+  },
+  {
+    "id": "c13edf43d154e32c60bcf6cc68131c4d",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "7fc9b5d46a290766907f95692c9808e9",
+    "normalized_answer": "5.0"
+  },
+  {
+    "id": "48102490d198a1b694f7fd1e3491329d",
+    "normalized_answer": "11.9"
+  },
+  {
+    "id": "b65c534a17410b57e2d6966b11485139",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "68a5c2d5fa250ae3e8c1936806d71e1a",
+    "normalized_answer": 9.95
+  },
+  {
+    "id": "5b4ef6496dea05c9a19fc8f98ee8a647",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "3ab6a767a9632a65d32248c2ce6e19fd",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "971de7a1d3dc112ba47e7572d1eba716",
+    "normalized_answer": 14.83
+  },
+  {
+    "id": "6fbe0343148a396ce369af2253e02c79",
+    "normalized_answer": 1
+  },
+  {
+    "id": "cf5626e254e360de46e209c0d44a8eec",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "34a7a89a9637176bf42358248281bd94",
+    "normalized_answer": "12.1"
+  },
+  {
+    "id": "9fb4cf942c78b7cedd7fc0540c880587",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "26220209c986bcd4c534c42653160ec4",
+    "normalized_answer": 6.52
+  },
+  {
+    "id": "33d384b437226499c277a4edb0509955",
+    "normalized_answer": 4
+  },
+  {
+    "id": "78e90cb058614ba6452ff7606e29947d",
+    "normalized_answer": 4.43
+  },
+  {
+    "id": "865fa874518836cef43f21a58ac57e99",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "23d125c6e2a78643f8d1a9891e5aa88b",
+    "normalized_answer": 1
+  },
+  {
+    "id": "0d341d063982c0467520d3a9c00ed76b",
+    "normalized_answer": "6.0"
+  },
+  {
+    "id": "a926301fee28fa18f80e1ebb96230a21",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "5fd48855493d384da6697e2bd355735c",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "55be5de99a105b9c1c0031db4baa678c",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "1aa6474735ab63cf5059e8db6d7f0b0b",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "cc45b28a5a556fa0000e7d75b40f5e15",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "7141d9b427a4022b0b3ab728a4a1bab4",
+    "normalized_answer": 6.83
+  },
+  {
+    "id": "ac6342c8a247277f4c466a736eb3ab09",
+    "normalized_answer": "12.5"
+  },
+  {
+    "id": "ac95b8b3cbc57b66527ef26a7ada7d11",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "c790030092dbb7f77a561fabe54091a5",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "2efcddf3616e4c8b1df5ec8cd0bf54a9",
+    "normalized_answer": "4.9"
+  },
+  {
+    "id": "aa7695c1473e7275e5d75775c97cbd20",
+    "normalized_answer": "1.4"
+  },
+  {
+    "id": "270c1304db0dd746f75d885d859f9aae",
+    "normalized_answer": 14.03
+  },
+  {
+    "id": "b58635bedc99b56c765a27c23d1bc189",
+    "normalized_answer": 0
+  },
+  {
+    "id": "f1fb59fc21324542d432dfec96d91318",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "163fffd518ddd124249437218cbe5d82",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "f158de2bc54526c7f7dda625f8e908cd",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "40c22d5fc28ca47c6723b465453eb885",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "9a859ea430965903ed8f25b106eb7784",
+    "normalized_answer": 1
+  },
+  {
+    "id": "25b02411d61e52fbc0a16e0a4c69e853",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "46c91bf47a8cb8c8eaae40fe8403b545",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "0a70346de811e5f1ace1b5d1fe91e413",
+    "normalized_answer": "15.0"
+  },
+  {
+    "id": "08cbd2df606a9a6d40fcbe8ecb34b90b",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "d9d237ccc3d8f1bde0a656b88a3075cf",
+    "normalized_answer": 10.11
+  },
+  {
+    "id": "9dae4c9ba8c35b74a011233c3ffcbc9c",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "72ed88ebf361a35678cc5db30f8d48d8",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "2b59e776bc75167034e119e80b22e673",
+    "normalized_answer": "9"
+  },
+  {
+    "id": "669cc0226902cd6483279965788a832c",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "495c4e3bc31e634767eb07e6bfe2b6ac",
+    "normalized_answer": 4
+  },
+  {
+    "id": "4e2c30fb0a6512faf6ce0d8f4f0d6410",
+    "normalized_answer": 3
+  },
+  {
+    "id": "99d1f9015367d3fd5c3da3c27dd77f93",
+    "normalized_answer": "8.5"
+  },
+  {
+    "id": "b674dd762137aa076e076fbd91377c82",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "f39abb78a3c1bf0b559a66740ba0f5db",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "9685849939823478ec87be98e4ac3f73",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "e6c3093eb9bf67018a5b37fbd30644a0",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "4f089671a1e1f3b947c7630718e6ee09",
+    "normalized_answer": "9"
+  },
+  {
+    "id": "bb42087884c786b77eafb63e4b58d657",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "154de0b741e78cfa9566d916ad02020b",
+    "normalized_answer": 3
+  },
+  {
+    "id": "8916d1160766556b248f44f539b9b076",
+    "normalized_answer": 0
+  },
+  {
+    "id": "113c9a8faca9aa398cdc5e6a34497fbe",
+    "normalized_answer": 15.35
+  },
+  {
+    "id": "7b4ffafa8d3d6dcab4a4c25ff3177c73",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "4858d5ddab5395a4962996d12394e8dd",
+    "normalized_answer": 1.33
+  },
+  {
+    "id": "b294b6806fafd61e88d4c75ee904e6e7",
+    "normalized_answer": "4.4"
+  },
+  {
+    "id": "96ab48ffe6041774998431ad2057c771",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "5cf93f1c8a5779d63c60f159e2c4a6a3",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "cea88d4a7f28b5fae30e165a43aacf47",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "aca4449394cf77e1c97c2c25a1deb791",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "1dec3c24c0c971125cccf144bb73757e",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "55e8a277dd76860be07ab462e5037a03",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "0de1e2b1d4ce6ca1f53fbe9d6bbdf2b4",
+    "normalized_answer": 4
+  },
+  {
+    "id": "3a133b150eb1dc8ecd2925a4767a1717",
+    "normalized_answer": "4.5"
+  },
+  {
+    "id": "ac8b48906930a6097c883940d2d8c741",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "721ed631238063656a25206bc591fc1e",
+    "normalized_answer": "1.3"
+  },
+  {
+    "id": "8a4dcf03661432cca149ce5f20ee159d",
+    "normalized_answer": "16.8"
+  },
+  {
+    "id": "deb730a43a5ca0be68be962660de5cae",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "8d6157035a6ca2c49d4940d6a82d655a",
+    "normalized_answer": 9.51
+  },
+  {
+    "id": "95995e5940ef096f74d602254d0e019d",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "cb6cd361abba09e773ae2bc2428e77f9",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "9ae64c6ad05c9763ea7c24ccc5c3d886",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "ff629553d28c8e67ad70480cedf3d850",
+    "normalized_answer": 9.43
+  },
+  {
+    "id": "2defd5492556662c633deff8da5ee589",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "46e3250e8776ddcb0cae1c503c6e2e7e",
+    "normalized_answer": 1.69
+  },
+  {
+    "id": "de25107379a5af68bc836343299a300b",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "bbbea0e3a447c262fd45233eb2eeab7b",
+    "normalized_answer": "8.1"
+  },
+  {
+    "id": "29f9034a5a2d5a6c7155f7deefdbde37",
+    "normalized_answer": "10"
+  },
+  {
+    "id": "0fe4a79f9000b6c7c11ab95bb2631a54",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "4cc5d9dba39dba55b785507c7d4275d5",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "8f810b086a68f2d7adada92bb06b6283",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "fb2692e5215c2247fa824f5d3d7d7eab",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "0648ba8802e3eea9abbabbe3dc65d177",
+    "normalized_answer": "0.6"
+  },
+  {
+    "id": "d0acdc173280a455fe77b0657164b891",
+    "normalized_answer": 1
+  },
+  {
+    "id": "7051b12398879561fc09d746ba1ddaf2",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "0ca5fe3803ee787c5b4dc18cc3b28bfe",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "b0b9cf5d15ac60b76af73d524fd0be08",
+    "normalized_answer": "7.4"
+  },
+  {
+    "id": "05954f0476a6d9bd5fde2b6f4b94f7b8",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "b000530ebf6e1f6d35882b2fe89f036b",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "0125ec4236bfae109451d1f2ea8508a1",
+    "normalized_answer": "16.4"
+  },
+  {
+    "id": "76fea2e0b1a0e38b9462b1eb0a23959f",
+    "normalized_answer": 11.75
+  },
+  {
+    "id": "0adbcfc32358bd06458179c0bb75f70e",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "945620ddd74c7c3d5b1bc4630f32b340",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "7f3f2515e817d325ec3df91ea6d89e5e",
+    "normalized_answer": 11.0
+  },
+  {
+    "id": "789ffe552a349f2da044a2a755eab866",
+    "normalized_answer": "1.6"
+  },
+  {
+    "id": "1c4c8c0c56e8a28508f84ea7285c01da",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "c3550e8949dfde1b257df1d7566b3fec",
+    "normalized_answer": 15.17
+  },
+  {
+    "id": "c2c95e86840b5d5af968c162f9bf3a33",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "ab45c5c931c88869f58c70668ef1205e",
+    "normalized_answer": 4.59
+  },
+  {
+    "id": "8663dcabc70269cc71f772a8fa391737",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "dcebbac4f5f8025757eaf7cf1da89ad1",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "ce4112066cf7b12cfdc205573a884994",
+    "normalized_answer": "12.6"
+  },
+  {
+    "id": "eceb04ea5a0f5d4cad5ac342d18b8acf",
+    "normalized_answer": "7.4"
+  },
+  {
+    "id": "58361fcb2f83132cd93bce73027c3e33",
+    "normalized_answer": 1
+  },
+  {
+    "id": "00b2673c923017de45e9c83a3c2b968c",
+    "normalized_answer": "4.5"
+  },
+  {
+    "id": "366e97566951471d9fd63c34b930295a",
+    "normalized_answer": 4.66
+  },
+  {
+    "id": "1f7c9a6d3f0b20a41b3467bf2627a21f",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "f6060bcee364901d6ba7c0a174072cce",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "121da4229ccb59916eddd277c81dd5da",
+    "normalized_answer": 3
+  },
+  {
+    "id": "509a9a5c53f8724544d28b0ca55cf753",
+    "normalized_answer": 15.46
+  },
+  {
+    "id": "30a176cf3643f730bdb43ef45f5ff4da",
+    "normalized_answer": "10.5"
+  },
+  {
+    "id": "f0814fe83bfe57da8693037a5df30b94",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "518efbc72d300984b9b54ca5508d16a8",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "6d48309f181d8222515d7e76f46482e0",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "0346a8805701e70a7d237ea05ca7c41e",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "1b28c022473cc41388344fb74e13bfd3",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "975eb7f8ca9429f5762f5fa7332ac758",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "46b334bd8025e490e709b38c70464782",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "0e2a8221200cd3e726ea7f1f2c612699",
+    "normalized_answer": "8.3"
+  },
+  {
+    "id": "b3233fc690463f1b878a50f127cf9670",
+    "normalized_answer": 7.95
+  },
+  {
+    "id": "34dc330dd567dabb5924d78ca9b2e3a9",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "ad4c4d62fdf1e6dff7da2db1ba6df455",
+    "normalized_answer": "10.8"
+  },
+  {
+    "id": "4aa2025a8aba2506db87926fa52555ed",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "3cc349a790bb448b1d0761b9eadd2d56",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "c92b70568d0d3a6eea5be79e6b8ce5a5",
+    "normalized_answer": 2
+  },
+  {
+    "id": "11e2c3000f89a646a6b5a9917c12b05b",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "3039fb5b7cf409cfcab6a566482e9a73",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "0dd74544ac07028abb24c82c4b94d903",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "51162e0b8d8bc06d6a8e94714feee05f",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "d50ae0639b4c3f88a968c82b0099a67d",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "848efb9f681d54be7502d911a6c5b0c7",
+    "normalized_answer": 1
+  },
+  {
+    "id": "a7152beeb726c25543ddba9fc8c6e819",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "d7d481584d01db79d3fe46d16c0dbc9e",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "0d76b7099d7e83ceda8a1e1143b73e86",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "24a46ee27600fe0e2883e2b5d5654fda",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "f017e0342fa5cc907ce39de133752909",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "8e91ccb13ea5da8ab190e350653fcef5",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "4d7265801c3147e5feb0c36239d87ec9",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "bf5d81d86442e8e42fd1aad977c9aaf9",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "6f53a3600f2938223786897f201a500a",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "a4ba119300018805bb08623a5eb38fef",
+    "normalized_answer": 14.6
+  },
+  {
+    "id": "6e72a3015d7b0069c8e09781d2c97089",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "847a12c5cd9deb7834eca34f548b2fc5",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "60c1594d0ab14b982a3920630c6fc554",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "6fd65d4ced49c7e3eea792ac0cbe3c8d",
+    "normalized_answer": 1
+  },
+  {
+    "id": "18917dfa99707f8f2740db4df79f0895",
+    "normalized_answer": "6.7"
+  },
+  {
+    "id": "0f299545332d9a56dd90bb898bd40bd4",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "636ab71394f9a57abbb36294872e36c7",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "502f51e278090e9b92930fafa64c39de",
+    "normalized_answer": 12.04
+  },
+  {
+    "id": "c6a473b63b1e825dc3341f78333f9137",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "c6c6fab815c3786f51699fd6def4aa5b",
+    "normalized_answer": "4.0"
+  },
+  {
+    "id": "8d42bd346d0730f40ec60f342d66f502",
+    "normalized_answer": 2
+  },
+  {
+    "id": "97c6595f53f0c6b7d0cef4c703100e2f",
+    "normalized_answer": "5.2"
+  },
+  {
+    "id": "92031cb8a81e52aa81316d3e50a6c1c0",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "0d1fd2672655026b9cf4c5fc759d7b97",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "2dd7cfb8ae84bbc254595aaa17bed817",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "1d1ea1c616b69a280ec9de45438e375c",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "030b023b9e981ea91dd34020f76e3e7d",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "f2ed5b168995b8a63f2109d347ca0d85",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "6e5226b1c6259b9d6a5852758466b27c",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "4a646ad415f1cb239cf7b38ff64fa244",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "5da453138b05badf6aa341588b1c7146",
+    "normalized_answer": 1
+  },
+  {
+    "id": "c2e3855a7052cb9ee69ff369da54ba29",
+    "normalized_answer": 1.35
+  },
+  {
+    "id": "8a1e1efa6891c86b6b885ffa3f8f9639",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "d004770625c747c9e5849d82f5512ffd",
+    "normalized_answer": 1
+  },
+  {
+    "id": "f91a7175cf1d47284558eb2aea927906",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "ec2c8fdeac0714c5e5c653336f522e3c",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "89989b1c78a6392da0f8ae5e15cbe317",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "1144b8b7a27c66344f7bca95233c88cf",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "224a2bb365675cdddc2b9acf2840cbff",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "9fdc305ca7eaaf84ddd56b1bd9444e1d",
+    "normalized_answer": "0.1"
+  },
+  {
+    "id": "dfacc7f3391ff4a7313c36af71ecd20d",
+    "normalized_answer": 0
+  },
+  {
+    "id": "084b47491a9d8a349ff70dc972c718cf",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "9fe297f24478eff931e7894577b782fa",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "24682868803a1c0921a0fca4730b4c3f",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "b5b3c28e7c20b4f785b13ec693fa4572",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "6772e1de6fc2faa581be540100f7ff76",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "78d27cabe571fa64495a511661e62840",
+    "normalized_answer": "7.6"
+  },
+  {
+    "id": "97d4328d1936308dafe581d15afee990",
+    "normalized_answer": 1
+  },
+  {
+    "id": "0a405903fba8837c25a27c8d170b23bc",
+    "normalized_answer": 3
+  },
+  {
+    "id": "37a345fbe6a056c92a431bf603e99623",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "e8b3b1632af160c48c122cec9bec1931",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "3f9031cecfdd17ab1f2f7ff7523ac1a4",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "3e28f87a2b279c37f56cac654ff5fa8e",
+    "normalized_answer": 4
+  },
+  {
+    "id": "8e783adb31cd1111b42a02982b05d5f0",
+    "normalized_answer": 7.68
+  },
+  {
+    "id": "40b73d34a4ed54260a0b9647b2c18903",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "56433e3d25f9a09b3632412d24805b3b",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "7c91c35eb6170cd71e05c59c79843714",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "2d70adbc9469f9f58367c29fd140da27",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "1341d39abdabf52c72576b5e2b144344",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "f50f6d72dd2302c0037115df30097a98",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "6c3dfe1434f65af642925a15eeed1c5e",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "6e241206bd21d53bc8f6cd9af6642f7b",
+    "normalized_answer": "13.7"
+  },
+  {
+    "id": "413d98b3cebb09d201847bb870798a4a",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "9416dc9202dd86fe9344fac792414826",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "3f1f29a8b36ea34fe68825ede8cdde56",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "1d4b84fd8cd29d58fcc060ad34a5e686",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "2662749891c6eca2e1c477e49ec5acb7",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "ccf71e334313155b027866f8ac2f6b7e",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "cf760ea1d310f201187db9221870526a",
+    "normalized_answer": 2
+  },
+  {
+    "id": "f24e1e28079214edf3ece23cdc5d7441",
+    "normalized_answer": 2
+  },
+  {
+    "id": "bbd7b335cf58803b64a5f8eb52726890",
+    "normalized_answer": 1
+  },
+  {
+    "id": "7cf871e13c6eb132ed0912474de1fcc4",
+    "normalized_answer": 10.49
+  },
+  {
+    "id": "99f166babbdb43d27f375d73fb368340",
+    "normalized_answer": "10.7"
+  },
+  {
+    "id": "d4abecb12b7a367a802684dacfba3c5d",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "694b6a079a9f6385eee36ee0505bd834",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "dbdbee07dfa332c71dc69a375d6e812d",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "5acfc0a07226ab0fd157484d1e26e543",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "54aa177bf10c11a3fe1392d7aab5e286",
+    "normalized_answer": 2
+  },
+  {
+    "id": "34320935c301de3a64e06f30be6d9d51",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "e231f8792206a6c13f878670b5d9d32c",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "ec6ef1f3cc2f2eff7b841633fa173e6d",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "5438dd3c10e4b7bcbca361e2f56a3c4c",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "441dd6ba16f731fce7dd2045d177c19f",
+    "normalized_answer": 3
+  },
+  {
+    "id": "1ea3acd41daadb845fa89a3c486afb5e",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "70fc87979c5557a63efbcf4bd87e1a78",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "e77f2fce48e22b3cf11918c0e53ac1b0",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "04f8d2783fdbb3841d9ee50ce1a663cf",
+    "normalized_answer": 3.87
+  },
+  {
+    "id": "d9f3ab441d7700252e9f4ef4394e4143",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "98ec011464ea780e9cad2a318ddbf191",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "496b14889de89bbdc26d3bd2677e3ffc",
+    "normalized_answer": 3
+  },
+  {
+    "id": "87fc81418e3424f26e684450a7d291a3",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "ce9af3b61e1a3e95cf967626aafb8241",
+    "normalized_answer": 4
+  },
+  {
+    "id": "ac1480ea270a57ecb60031afff3a6e8c",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "8233807d663e55eb7267f295fd7ccd54",
+    "normalized_answer": 1.18
+  },
+  {
+    "id": "8e2565b5ad27b504e4f57881da636830",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "f13da8af7d81dcd78ceff0066dc40986",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "e65b0ccb990723da1255b864ed1579b2",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "82cf15cc3b5ac0e30c0d86ce47ecf41b",
+    "normalized_answer": 12.63
+  },
+  {
+    "id": "31163b74efcb20354cd2ec22b74170a4",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "1ef2b0e7e76f3b61d0761b6d030f0930",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "5148e6a3ccd750ef36e5f8bd5f24d363",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "7e820db39269df156beea1d6b1e7cab3",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "1efd662cce2e1cc8fd12b17d770aa281",
+    "normalized_answer": "3.3"
+  },
+  {
+    "id": "3032332566d8ec611f6e3e9e5ef4ade5",
+    "normalized_answer": 14.14
+  },
+  {
+    "id": "09b9fcfafca539811666b9432336222a",
+    "normalized_answer": 7.48
+  },
+  {
+    "id": "7ea0e5264e504d7364f8c457a433bb55",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "2f934431aad3c577b668a9b77f6b17b2",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "3f997a692f4e8544f863f75bb0433b40",
+    "normalized_answer": "4.1"
+  },
+  {
+    "id": "6ab4048f078b0c0b14f71a358eff5fa1",
+    "normalized_answer": "19.2"
+  },
+  {
+    "id": "d588254d5ef7d9b8aa49824ef450cc0f",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "3276ca8b73a7ca15040f402c678b898f",
+    "normalized_answer": "0.8"
+  },
+  {
+    "id": "440658c1d821ed312c29c889d01afb8e",
+    "normalized_answer": "9"
+  },
+  {
+    "id": "a711671e83b1cfc0ab580f836cc6c26f",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "ff0182d227cee1a9317bce67136e7059",
+    "normalized_answer": 2
+  },
+  {
+    "id": "91c686bd720d463b67490358c3b6e8d7",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "778aadd482a1e1117129f22ec3e7ed4c",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "c07d75cca49a2a807898ee72490f199d",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "c68abd9183bc3fe4239c001a5c1c3b0b",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "b935c64c0353c12272ad0040414f53d1",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "79257fa921b4af6b8dffc3d888d0b41b",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "9e76f9e109134713feaa2c3697db5fdf",
+    "normalized_answer": "13.7"
+  },
+  {
+    "id": "c5a3f4691286448d3cad7c4aad5fa26e",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "3ab83a4fad62fd30990e7c60ffda3c4c",
+    "normalized_answer": "0.1"
+  },
+  {
+    "id": "7bf1700dff759289e1d6ee346f96c7f7",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "bdb451427d9f41a5f33fa266f0eebd85",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "470eea6559a0082f448e5a2bdf9da67d",
+    "normalized_answer": 1
+  },
+  {
+    "id": "25a64cd27503d4230e02b02e5783d115",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "07a09b731ca76267f7b2aee231286ce5",
+    "normalized_answer": 7.32
+  },
+  {
+    "id": "b7414d1ba4f098442fc11de06e0220a5",
+    "normalized_answer": 2
+  },
+  {
+    "id": "8e33dbeafaaac1914dfa9f5c827be7fa",
+    "normalized_answer": "11.0"
+  },
+  {
+    "id": "de8b39342792fff6d1063489ce2ff472",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "20e3aa7d2380ac45cd28f843d9cbe234",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "ef5adc2ddd50971db5c1416c9dd1a0bd",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "3b84b86e813748e61d1d74d8584cdeb1",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "cd8fa5d1041cb3fb23eeba44275b3dfc",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "bbbaf0aa76e2926e722d4fdd94fc0f8f",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "6c7f1964c6741c65fd4b44b24ebb6c8e",
+    "normalized_answer": 2
+  },
+  {
+    "id": "ba2fa562be5bd7bff0dff36f3e38e180",
+    "normalized_answer": "1.7"
+  },
+  {
+    "id": "23fe552a9b0e63b18934d9869c9d221a",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "351619d5fe51ff3ac184f64ae0d4f467",
+    "normalized_answer": 1
+  },
+  {
+    "id": "eb55b9a98864e2a68721230773135126",
+    "normalized_answer": 1.28
+  },
+  {
+    "id": "8f0bac2e2902d94ab10ba68697a492df",
+    "normalized_answer": 1
+  },
+  {
+    "id": "acc29fae6e609fe8f82e5c57cc2103d8",
+    "normalized_answer": "9.9"
+  },
+  {
+    "id": "1441dafdcd184ba18d8e8a69ec87b275",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "bd4176fd7a38745acbb6b2533537e48d",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "9465fc1017e2e5aa8d1fe80b0a797573",
+    "normalized_answer": "8.3"
+  },
+  {
+    "id": "6fe522a91ff2d026166561c85a5c8586",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "b42f4cecfe94c9b4470a8c64e2f4dcfc",
+    "normalized_answer": "2.3"
+  },
+  {
+    "id": "3555718f83df3da9d8ff7d0476210a39",
+    "normalized_answer": "9"
+  },
+  {
+    "id": "088b297f437c8f9cfbdb72772d910287",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "be74176eb4df3f14b24a64ccc7cc773b",
+    "normalized_answer": "7.2"
+  },
+  {
+    "id": "93bc7908a7fea2d5b89e9c69e0e47df6",
+    "normalized_answer": 2
+  },
+  {
+    "id": "a55a1e6466831d385523efa0a7b34584",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "491162ca7df321cbb82cf7f13f156b89",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "fd11f19c4e1c7030df51a6c83431a401",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "c8e8e8e9c063c32b46a0c3cd540ecf9e",
+    "normalized_answer": 3
+  },
+  {
+    "id": "4a8818177169e9193d38e6a8cad9020b",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "4a0b523f9a2648b8cc2901547c849c04",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "a2045b0c5cfa44384da9317b2650eb81",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "4b65cecf2742c84684475ba386ffbe2c",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "c58745a25d8395b80ee3c2e948b1c503",
+    "normalized_answer": 5.54
+  },
+  {
+    "id": "bc16efa0726e6c8563f38f07e58ad87c",
+    "normalized_answer": 4
+  },
+  {
+    "id": "87116a8eb3759d52ae344a126b0374f8",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "88acb96bd465c05b24506141657c6226",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "92b4ac8368a4090d2f2bb8e1e4d2eac2",
+    "normalized_answer": 8.12
+  },
+  {
+    "id": "635847367f52a93c77f4674ad430407c",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "c2baaa1746955aeaa58582c886f687de",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "bc8590a06aacdd5b329cf3d07ed80df1",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "d5fdbb2ec2e39d1e0f2c6a8adcf5d4cc",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "c113f4a95198e95243081e389f7c483e",
+    "normalized_answer": 14.88
+  },
+  {
+    "id": "42890f679d6b2f8e4525a043da3c8906",
+    "normalized_answer": 3
+  },
+  {
+    "id": "df82b43337dcd6d9d1f8827193c81752",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "744f968869a5e4aff04e0db74a2cdd82",
+    "normalized_answer": 6.36
+  },
+  {
+    "id": "8193dc3b59b26500e252ef22abbf8820",
+    "normalized_answer": 8.67
+  },
+  {
+    "id": "be00aa3264d6973ee439101e8feb67f5",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "1e8b72d3aedc8b25943656f1db96f4fa",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "a05775ea0bce11025e89e5c29ba0f1ef",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "66d03ff27eea5f1ef212ec1cecd15d06",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "b4a7b7890fb4b7597a9b0169b5fddb2a",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "ea23292cdd0287bc3c6ed523ce3a8603",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "a03dc55e3a804ba340d427c02280d8d9",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "ce34b7b317b9dcf56dde1e39557c9fad",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "8d031c9b27c742cc2bd1697fc9229aeb",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "05123adb22247dc82c2d0b784cdd6868",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "8037f4f613f5c48049490d21870d8dd6",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "7c98c3af98945cd9793338e3e231ab81",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "90036dbf54d7d8404b64d275f5b793ae",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "358a138c4784125cdd8087dd647fa0b1",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "017500c8118be32db02fb46627dd9fca",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "193adb41260fae97eb9721f5830a3c97",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "7a5461be220356dc65cab5221b4b7e58",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "654e310c6c96108ff4f70299aac48660",
+    "normalized_answer": "16.9"
+  },
+  {
+    "id": "23bc43c042de4533f13aa8482afc0b16",
+    "normalized_answer": "18.8"
+  },
+  {
+    "id": "474001a454f0ccdaac166587cbe811e3",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "f14e237adb14336154a0f557b0be6d89",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "04f62cba393d7cedb2c6ea5c87a4461c",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "c3d317f707daed9db17defe63b9c6a74",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "f61a04c7f17d3eb61f871ddd2bb842a2",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "1934d2bfebe4c3347ee7edfd7e1b8899",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "0a9eca61f866444c4e39324ab00867ff",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "6423719b471c97c6df3fe68ee38a7789",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "886340102676eaa2239d519a25944958",
+    "normalized_answer": "9"
+  },
+  {
+    "id": "8b6bdde8e79edd1ed2a619e5aca0ad77",
+    "normalized_answer": "10.1"
+  },
+  {
+    "id": "96e7acb7594dafc542f8aefbbaea049e",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "ecdb500ccee1751d7e29d78a9f51bae6",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "6bd3b1b359ab58aa880d33de68114bc9",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "2618d9a34f5cf6a16f51e42d29667a65",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "e81455e52cac6e3fb27f5c70df144703",
+    "normalized_answer": 2.07
+  },
+  {
+    "id": "02105eafa8b731444682be6d6d3be2c0",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "14b7dd521f5b5a807592162f3b69fbf3",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "12ffd3f58b611f9ec893030ca0fd572a",
+    "normalized_answer": "9"
+  },
+  {
+    "id": "c681ddf305fc775c20bfe7343c2afb08",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "516c10eadedec307864e763404894513",
+    "normalized_answer": 2
+  },
+  {
+    "id": "08dfc2a9fe39679c5b48e17197cc02c8",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "3e8417e1062767fdcb4f1f493218e5d8",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "d43834dc79c451732861e892023675f1",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "0ec146979c396496067bd1a6f6b4d16c",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "7df36846b94fa6cfe3ab753eb567171e",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "344d5eb6dfe0f2033c4fc1e48e563490",
+    "normalized_answer": 5.63
+  },
+  {
+    "id": "f3ab9bf8768513f1414536847859c09d",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "96dcc2bc2afd8af3d24200d6a1e23791",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "41403664f936f25c881172f5a14dca6d",
+    "normalized_answer": "4.2"
+  },
+  {
+    "id": "20ca4a309ac55d87e6475993b842f11a",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "a267fe7230f1fe367a5017cdc9b0431d",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "85019392dd4770376dbe4b2fc6fc1f48",
+    "normalized_answer": 3.78
+  },
+  {
+    "id": "7f4a6d01a3172ab992f12de1ba02494b",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "7e462ae5fe88be74353ae698aa96b4b9",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "82fac21a884e31999a5c2ba83b5c4d64",
+    "normalized_answer": 2.39
+  },
+  {
+    "id": "cee206b5ba43bcd204e11148cb771f58",
+    "normalized_answer": "7.1"
+  },
+  {
+    "id": "4c55e2bfce5df6936945439bb600244e",
+    "normalized_answer": 4
+  },
+  {
+    "id": "c7f01e58d9b7dbb9e0526baf5e6630ff",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "d8a50681e73ed669759eebb526dcd92c",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "cca45b30b235d0841b07b4fdc09125e8",
+    "normalized_answer": 2.59
+  },
+  {
+    "id": "95fa6d536603b8fe6b73b3dfea11abc3",
+    "normalized_answer": 1
+  },
+  {
+    "id": "4196825ae145ef6d574cf1512079adf0",
+    "normalized_answer": 2
+  },
+  {
+    "id": "d47c77d0f63d1aa7a8ecdad365b7dbc0",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "615812dc2df72e9d09e4d8d68fd3888c",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "da0f135bfb4f14205476892613e990d0",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "574346e56d799ff8b0a9f6b357f74fa6",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "6f51cf033312eadf0d26d085169ee1ba",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "11117e041747fc103bf837ebad09c6c1",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "336bdbc49315bd0483831c817a303599",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "3b8fd4518de1f79ec95b12a33ed3e61f",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "179dc4506f18bb39207587ace7681966",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "18a9b3b2e96cc75a6909adce0a34ac21",
+    "normalized_answer": "1.3"
+  },
+  {
+    "id": "ce5a9ddc8b641f5d92d2fea2b6452077",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "f564ead11da74515beca0cd742123b16",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "0cd851ddc21b15766c7dcb3304111593",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "8e4ea8af9f30b60a015033198b6dd319",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "56a2bb4eb5b637c42ab9d875daa8268f",
+    "normalized_answer": "3.3"
+  },
+  {
+    "id": "2fc7883de89844da38a5e17ebee04238",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "25974464ca17f7fcee85e0d02a9d9d57",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "65b211d348d95bb03af501514ff33de8",
+    "normalized_answer": 14.54
+  },
+  {
+    "id": "6c890038e0aee73f91b873622e0bd48c",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "2eed30b9f09e612b36786e65c8b0c99f",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "08c5759a108503159bd45dea15d67565",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "0876961b59cff182f11081c1fa5d910e",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "e4cd5a7aeb4811d0d9259c7f365a3598",
+    "normalized_answer": "10.9"
+  },
+  {
+    "id": "ce67da7955da06be0a7d290495ff7ed1",
+    "normalized_answer": 4
+  },
+  {
+    "id": "27ba276406f53e8cbb0ff4085b779a96",
+    "normalized_answer": 4
+  },
+  {
+    "id": "3820f8f6f626223004855598bbf632eb",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "ae186a9bd96aca662cd7b0ba967e670e",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "d859d6f720ef867faa256912f21a68b2",
+    "normalized_answer": "2.1"
+  },
+  {
+    "id": "19f82725b7ed81cf289f70b84c870f5e",
+    "normalized_answer": 11.14
+  },
+  {
+    "id": "dde7cc01b9fafc4be033d443b2e8fd50",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "e1a332896d60862a9df8557d6b4a7e22",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "eea7b23fd7ebb9a833b128662b845b31",
+    "normalized_answer": 2
+  },
+  {
+    "id": "7a7fbc73be343c11bf7b9170e819b1d4",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "7996933e7e4b4a0c32480ad2dee54a8b",
+    "normalized_answer": 13.54
+  },
+  {
+    "id": "fa15eb0a651c0abf1e63cf9da4066350",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "b7f2e88961cf18038edc788c96ff4f89",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "851336decf6bdb69046de86de04be3e2",
+    "normalized_answer": "12.2"
+  },
+  {
+    "id": "ef68e05abb24881c4c1d84f0171b4d6e",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "06297de364c74f93062285ea34afb1ae",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "523263b280e07c3769e6a12f81791222",
+    "normalized_answer": 12.63
+  },
+  {
+    "id": "ab72cef6bacac4cdfd0ebc4947d715d2",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "2097eed45b42192a14a70b3e1b7a4015",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "d2090dee6f0fa867afbf2e0d65a03f3c",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "33347a32336d2099e44585c274f613c8",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "afbcfbdbb140537c88cd1e08bb3f9a35",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "bd63465e26d5132bad61960984a56501",
+    "normalized_answer": "3.6"
+  },
+  {
+    "id": "b08d5012937ced9afb322d2f15e77831",
+    "normalized_answer": 5.81
+  },
+  {
+    "id": "42c61d2699257cba3ff394870d1f2012",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "c33d2f4cdfe05c5a199bd85aa2c3ac4b",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "4e278cafdf21ccd815ae3c902e7d9a17",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "3e922d7603ffc53f328bff0ff30d3636",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "f88e1eb0b93cc71151101c8e7d29156f",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "4aab50bd76a5c5eb46edd67054139729",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "61623145e88f145657ded866e7fa462b",
+    "normalized_answer": 2
+  },
+  {
+    "id": "72070c5af80ca2e860424457cf4c54f9",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "0e06b4642950ad1944eda25ee6d6560a",
+    "normalized_answer": "10.5"
+  },
+  {
+    "id": "4600d33c4d3e0b3ddbcd67fb500b05bb",
+    "normalized_answer": 5.2
+  },
+  {
+    "id": "249621d5c18f33d0b080e408a92cb18c",
+    "normalized_answer": "7.5"
+  },
+  {
+    "id": "745f09649ce8a8d9823157f88734766c",
+    "normalized_answer": "16.6"
+  },
+  {
+    "id": "5e5c4388ca6ce093d02f064aabfb8d29",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "2fd6aeb4e1a3f3ec89635dbbe64d710d",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "a26facbc8f92ada01056082df1d866fa",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "2e0ba95aa678ec5036da36126a974e1c",
+    "normalized_answer": 6.68
+  },
+  {
+    "id": "6d4c4df556355c7c8360b7fe6e26941d",
+    "normalized_answer": "18.8"
+  },
+  {
+    "id": "4c4c2e01b2d0fd79006ac1621af8e534",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "e13df3f50dc093cb655dad98f957acf2",
+    "normalized_answer": 1
+  },
+  {
+    "id": "cc1f51479d7e0c4e948e6f6f22011710",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "756b631b405e83e8673aebb188fe36ed",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "c4bfbe5496024d9aa3d97e459388990a",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "2fc5077dc1647758e3445b8ca1927297",
+    "normalized_answer": "3.4"
+  },
+  {
+    "id": "bca0720979dc8b92a29a5f05f5d33913",
+    "normalized_answer": "3.1"
+  },
+  {
+    "id": "c6c490b07490ab4a0f2dbd3f4d4f05d8",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "27d0fb2e4ef72bbdfe6d9b3bc21e84e8",
+    "normalized_answer": "1.7"
+  },
+  {
+    "id": "0d03ad189da8c4b20eca1b543116f8c4",
+    "normalized_answer": 10.16
+  },
+  {
+    "id": "92d8c69072999e895709a029c4db474a",
+    "normalized_answer": 6.03
+  },
+  {
+    "id": "b0494c8f4bfdfeccc75f34a785881f95",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "b0665bf6ff8af79d649b8b37037635e3",
+    "normalized_answer": "2.5"
+  },
+  {
+    "id": "468f7d25c6cb88f69254726bec5bb9bf",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "d3ee99814b8a8abf47af0b99969a08ee",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "a110f76b5b251b52dc837dab29e2ffe1",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "6aaeaa1f118c4c38fc257a682e5c7cef",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "7fb1d535abd616a72916fabe55cbf422",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "ccec20956ead51432edbb35c67c0edec",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "f08e087b6870f1c6a02427e485019f85",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "4ab5a90895a70337049336cef56c6c0b",
+    "normalized_answer": 2
+  },
+  {
+    "id": "ba1c800a94823df37f5e6054ee75933f",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "b1c43ceae3393ff2ca648f1eb24501dd",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "c344522b20f359d2625b17c2ade2dcb4",
+    "normalized_answer": 13.2
+  },
+  {
+    "id": "a627532aea18ca0bfc0f7bf141392758",
+    "normalized_answer": 2
+  },
+  {
+    "id": "f5e4127d1c22163906687207de745250",
+    "normalized_answer": 1
+  },
+  {
+    "id": "751769b8f1e2db4aa1074336228ec220",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "08da12be400ba38d381bbbb4aecdd5c1",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "f0776e8d0419459c2193ba03f1edee00",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "af9fc21461b113d0d4cad05b64d83a40",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "d864f7d056eca3c9cb4f9619663035c6",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "35b8ec416d0d93de8404d5f15a8353f3",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "92cd36336ba9404db7a29e6eacc6dced",
+    "normalized_answer": 3
+  },
+  {
+    "id": "666ccd9bd5ead6f5863192c68e8d5b98",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "811eee318b946f069d45de03fb7e24dd",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "e856e11dc39a8c52422092877e446feb",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "6414e929b9904c1da79c82bb3b988897",
+    "normalized_answer": "0.1"
+  },
+  {
+    "id": "60ea2f97452b26c7eec9e2471c8d05fc",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "941960946a6eb752a5b3ca0bb5e08a68",
+    "normalized_answer": "1.8"
+  },
+  {
+    "id": "5f2a4eef823ba8476459f1ff8a9f4324",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "a4cc216c31a39106fa406b7dab46c7a7",
+    "normalized_answer": "9"
+  },
+  {
+    "id": "3d943d9fc269fef666baa08895b22744",
+    "normalized_answer": "9"
+  },
+  {
+    "id": "c2ede389d3c66659d85203e46f2b0edf",
+    "normalized_answer": "7.8"
+  },
+  {
+    "id": "3ebe8ae732c4db3686b96a76a7bdfcdb",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "5414f49fa1066943a0ae03fdb450231a",
+    "normalized_answer": 2
+  },
+  {
+    "id": "970fd2cbdb62ed1624dc58614361e9ba",
+    "normalized_answer": 1
+  },
+  {
+    "id": "dbe520eac6ddbd25fe2c5b5f05410279",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "881a0d26c04e2abc43e793daebbb94c5",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "bbc7eeb5badb9a7100c367445031d2d8",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "17bbcf8714086ddb0e3154fd9865751c",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "aaed12b159cfe10b1a7617fe5de7ce16",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "1adb4d16fcda8d6b190c54378a36ff12",
+    "normalized_answer": 1.56
+  },
+  {
+    "id": "540b2dee0910dfdc3bcd9583e371fce3",
+    "normalized_answer": 5.1
+  },
+  {
+    "id": "ac5712b84187b3109a5bc9736c0705b6",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "709de197bb81abd40f0409f4edc5dc23",
+    "normalized_answer": 4
+  },
+  {
+    "id": "6e1ddb4d65ad829f4fc8c6eb4e15786a",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "ee135f3566f2d2f00fc5512f9467e83d",
+    "normalized_answer": 13.45
+  },
+  {
+    "id": "98ed6439efa7a1cbb9b5aec9c0d41e0e",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "78566adb8f925e1c299ea8a6e63fc6f2",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "9d250d8566214f585f0bbbfb3682d904",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "1ffbda594ed6ce5bc37e1dd8120d4d1b",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "bf6289438709c1371826f130a3fc934d",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "16dbf0fabc6f3916abeda2b48e51c558",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "86aa33a4c406a223c14c9bf4f24d2270",
+    "normalized_answer": "13.9"
+  },
+  {
+    "id": "2a0aa30d8c98068384ba77bb2731df4f",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "e333a4943561376af825dfd23e78d904",
+    "normalized_answer": 4.87
+  },
+  {
+    "id": "76e8156f4434fd9a8b71d8c5754843ae",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "38ab601ea7ca3af2f36e102f84560fdc",
+    "normalized_answer": "0.1"
+  },
+  {
+    "id": "1b54bbc1a1379cfe004e371a753f4ed8",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "7f5736d0b9c31a31678fb7a0da30106e",
+    "normalized_answer": 2
+  },
+  {
+    "id": "15772ff75c3e9c355be7a5f0f8365e56",
+    "normalized_answer": "9.9"
+  },
+  {
+    "id": "dc2ab4fa243bea0e6bc8142ee71d180c",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "2938afa158aa4d7cb8280a6596e916eb",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "31c81a68824ff237351bcdd1b54341de",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "40bf8d6743887f7b32e3c135a92f48f2",
+    "normalized_answer": 3.07
+  },
+  {
+    "id": "aba40fcdf22a3dd15702f0e5a82279b1",
+    "normalized_answer": "9"
+  },
+  {
+    "id": "07895905ae80c6b6215810bab5b0e1c7",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "089ae4bfea5622a3aea341acd7e7beec",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "e2cef674d1c8d43454d453cf320c8266",
+    "normalized_answer": "2.3"
+  },
+  {
+    "id": "5be3466f5ae67f957f56b0f5244cea3c",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "0cbd3bcea470cd329981d4eaf9faa064",
+    "normalized_answer": 1
+  },
+  {
+    "id": "cb71e11b8fbab351fcf11aaabf9fe188",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "49eb2d828ce6bf79a9ce1af48afe262c",
+    "normalized_answer": 3
+  },
+  {
+    "id": "02fa1c67233ff9faf4b687c715043563",
+    "normalized_answer": 3
+  },
+  {
+    "id": "91adb9edc36fc8c952c2b9238c92a063",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "6fd459817a8a72c0c76bd3ec3bb742ef",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "91be322ce7961b1b3615c2b686e5c428",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "32b2821accd7bd04048ba8c9e5741cd2",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "6f62a0b9e8a67523f8d61a10cba0ba2b",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "acc4d106c65e2ed8996e6cb29e2a503f",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "fb36d6fb38ac3254d2785f75d4689c13",
+    "normalized_answer": 1
+  },
+  {
+    "id": "b6498d33d29426f5395bf6dfea129a6c",
+    "normalized_answer": 2
+  },
+  {
+    "id": "7beb9569ced4e2928a765974bc1b21ae",
+    "normalized_answer": 3
+  },
+  {
+    "id": "d407dd46cfa99522efaebcb69311d249",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "4f39b3bda76976397bf414e184315e60",
+    "normalized_answer": "15.8"
+  },
+  {
+    "id": "143791eecf76baff6636b0173bb565f1",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "9f7320019d081a80ed52284faa76e114",
+    "normalized_answer": 3
+  },
+  {
+    "id": "3adb71b9c34b08aa82b1f86201033857",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "e43ebeeb527390e513c79d0e34360355",
+    "normalized_answer": 2
+  },
+  {
+    "id": "62d79c8ffb70b7b1fcc8fc4c8e290b0b",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "941cc3b83c6244eb0a82ebf0af4580b2",
+    "normalized_answer": 1.06
+  },
+  {
+    "id": "d11105bcb39362fa270542b0c827b88a",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "ef0c460eab2c5c5a7ba0c21615b07278",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "412106e5fa19c29ad417a86362e764a8",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "6c0b6a1a454f64371a034e5320b695cb",
+    "normalized_answer": "16.6"
+  },
+  {
+    "id": "064c412637ea9efce4641def7c620f5d",
+    "normalized_answer": 4
+  },
+  {
+    "id": "378cde1909699a31141be75757281240",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "a75510e6ce986a47789886d420e35823",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "9c49c0808477068caba105405fb1a830",
+    "normalized_answer": 12.63
+  },
+  {
+    "id": "1242d0bec87b06487af50c1d5192bc2d",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "2c4c2e3733e2c83a9c28b30d42891575",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "6e4e15101f1b6afea1fcfd5b4fbce2a9",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "6226840810cd68d0023d60f0710a5841",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "5297ae41c140411447ee600928fc8479",
+    "normalized_answer": 1
+  },
+  {
+    "id": "972f3fd7f26829472fe4c3d4bb26f838",
+    "normalized_answer": "6.1"
+  },
+  {
+    "id": "655f6cc4461e42840f53897b90b973cb",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "0069be815884be13b8952452d22281fb",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "69cd831b49bdf71b72e6e137167f6e46",
+    "normalized_answer": 1.19
+  },
+  {
+    "id": "9766d6a82ed5c52ab3810b1586d179b0",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "17ab324b902a1e37b38701a0512259d1",
+    "normalized_answer": 1
+  },
+  {
+    "id": "8dd668eba3ae6d88869f28f8641c368c",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "594164e1661d9e8869bebe6a74f93bd7",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "8588334905b7bed0f60c2afb82c02974",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "4ce7698e814b6e33ada1c83368f82926",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "51076e2a36bd40744a6474acae4499ff",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "5788c7daff0a6014329fecc1efb1ba5b",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "6b61f034fa2baf5093bcc3f2bd85959e",
+    "normalized_answer": 2
+  },
+  {
+    "id": "522d331c053e9ac42f3bb907d7defdbf",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "377cc5f15e9a0d26a30071f8fcf36027",
+    "normalized_answer": 4
+  },
+  {
+    "id": "02beaca6921aff5b64a51f8520805d85",
+    "normalized_answer": 6.47
+  },
+  {
+    "id": "1ba56a09a7ed43fcaaa7d32f4e65293f",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "c338eafa7ec0b006f190a40cb5fa5b3f",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "25107cafb5afd611b48cadda0b15ba9e",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "cff5fedbff2d5a5511d083c46355ddb1",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "1dae39ed1b884fe412b9ef6ec33956db",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "0077edd105563331d08d1bdfa984ff43",
+    "normalized_answer": "0.1"
+  },
+  {
+    "id": "7aa7891fb9def2d2da9acaaab24a4abc",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "c18e69b39a7170481efdf3d8694b75b5",
+    "normalized_answer": 2
+  },
+  {
+    "id": "8d96a89e4ccf313b55811ebb2fc878b2",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "f276b39bceec4b6f665067a978ab8bda",
+    "normalized_answer": 7.26
+  },
+  {
+    "id": "30186e6c62691f36bd8cf1cbd54a4ae4",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "86f2c786e37386bd1093ba431d58f767",
+    "normalized_answer": 2.7
+  },
+  {
+    "id": "6f880460adc15dce58c37d4f73fd480f",
+    "normalized_answer": "8.2"
+  },
+  {
+    "id": "3692a4bbfcc056bf29e29a0eecdc9042",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "35ad0b9992b7695cb100ee876840d273",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "c2450b600cf050375501d08140310c25",
+    "normalized_answer": "5.0"
+  },
+  {
+    "id": "35996c0e50e45cfdd5a67cb70176eeb9",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "0e477c3a60a7fcc2c66ab5d3049910f8",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "84a6c44294503eeee47c3fef07e92ecf",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "73c66ceaf32bbb9de49ba8f07f42ce3a",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "d4e5792ef8befda1fde440ceb083f121",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "dc9aa92fcc475766d7735acbd7c8b892",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "2b7a5b0ff4176be61a753739dee6aa60",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "cdfd5aef85040fc3f571c4e873478940",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "803026f25a7f9ec6e0613a0f59137e59",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "8f4acbcf620834e41671660956e4ae2c",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "3df3b79249d8294edb0acf6dfcca64a4",
+    "normalized_answer": 1
+  },
+  {
+    "id": "7431dd856fc21fed3d80ca5d0da6a0dc",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "3eab1fffb86b95af52b91401c2e9eab6",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "0c9c18c16a049907ec5c52e82d4bf462",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "9c6e4b1b7539f256c8eed21783fbca8c",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "81ba77d3aba832968ecb8febb5bd133e",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "37e8725efa9793f560161ca507841461",
+    "normalized_answer": 1
+  },
+  {
+    "id": "6afc29f43e11cbd166ab5adf51022885",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "1a1891a2a6c3edb3c1ea839f8759ba71",
+    "normalized_answer": "10.9"
+  },
+  {
+    "id": "6ec272f5c796427569567d555f6a9514",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "5610aede03c315073f4c8d06baeba083",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "eba46a6aa8d0cfe728091023f5979f0e",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "9fa0c89bff4a868f1a04feb1b0e6a194",
+    "normalized_answer": 10.94
+  },
+  {
+    "id": "4ea2f7a10d3356fae729f9d4ff863628",
+    "normalized_answer": 0
+  },
+  {
+    "id": "5ee781a826a5be7028168e595a0a3ed6",
+    "normalized_answer": 3.59
+  },
+  {
+    "id": "27cd026bc224f6c9aec491bc68685eb3",
+    "normalized_answer": "9"
+  },
+  {
+    "id": "96883849055d1ac28846b63103f195ff",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "f40d5e7cb2f1071643d7fb508b68951b",
+    "normalized_answer": 4.35
+  },
+  {
+    "id": "b2c4c1eb1eb8e895117965839910455a",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "7bfaa7f19925bd38a8b24a581508a7a2",
+    "normalized_answer": "5.7"
+  },
+  {
+    "id": "7e2a38d65c632dd215ee9f8ef14c3d67",
+    "normalized_answer": "18.5"
+  },
+  {
+    "id": "6e9f23c467f4c1b6908007e7733590ec",
+    "normalized_answer": 1
+  },
+  {
+    "id": "42a356abbb3fa6566a71bf836eb06581",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "28fc9977ad71b981d597606a62b5072d",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "5184e50498607b117b821a9dd691624b",
+    "normalized_answer": 1
+  },
+  {
+    "id": "d6924de60accc0b331a483d5703828ec",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "2b2f2c8608cfa85b1f33fe1c07ad8a20",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "2428db4db8d202ef1b87f704e3015bce",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "7d459c5557eade2cc2d1404e254454b6",
+    "normalized_answer": "19.0"
+  },
+  {
+    "id": "edbac48e3836adf79a0ec6c413b4f965",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "bef4e49b15d083f75894190de9666a2b",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "65581dc22d31753cbafd6a388e403c97",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "774f99f6ed1c149bdafcd8940ce6d9d3",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "c5b41b493f3ea5da684f5690c3d1df8d",
+    "normalized_answer": 4.85
+  },
+  {
+    "id": "7822c37e5067481075ae59035baf4523",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "a6c5af31ee6cc440ca5fa770edf56a22",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "a4bcae4aae3eef4540b6c81cd12bc89c",
+    "normalized_answer": 3
+  },
+  {
+    "id": "f85e6978e1d564d52bf53e80ab6ada90",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "d7e15dc8e27f7c3cbbecff7213eef094",
+    "normalized_answer": 3
+  },
+  {
+    "id": "0e6df5aff1114a5c03156eb3dd4182f6",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "9589ac4aa9b2a47a94c79c7d3de8336d",
+    "normalized_answer": "0.6"
+  },
+  {
+    "id": "2b0be52c680bc978f1b982801439aa86",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "058f22a8fda855fc7e924258f92d1c35",
+    "normalized_answer": 5.1
+  },
+  {
+    "id": "89c97c4f8e23969a07c7ee38bdcd271b",
+    "normalized_answer": 10.02
+  },
+  {
+    "id": "3114cc826cac6acff0d12b7717ef01f2",
+    "normalized_answer": "5.3"
+  },
+  {
+    "id": "d0773409ef8a1dca7e6e2698ef207bbf",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "bb85a8a017f722f0b1eba1db5581a90e",
+    "normalized_answer": "3.4"
+  },
+  {
+    "id": "6de4c2c78d44fcdccb88f00afaf0e377",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "ba73af0e1b066bcfab6ef785bc81794f",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "334a9951d7cad0a24055beb1c8cab67c",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "f27849c56652fedce3c3425d0c65bb6b",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "48a03ccba7a83f01fa797e63ae92351f",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "b129de36fa2dcb3aef2984ca49c2ec58",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "f3718cb61a96de7088e24515b814f8d6",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "34c8d4ab9073b12d53db2c9a240ad98f",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "f81768fe8e09d15b137a7100212c2be4",
+    "normalized_answer": 14.24
+  },
+  {
+    "id": "4edb264e16b3ddd8ca0e23d8b07e2702",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "e0f78def85cef1feae8e8a215863189d",
+    "normalized_answer": 2
+  },
+  {
+    "id": "c85f758121552950392b7dd794dda8f7",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "3999bbd86d90b77e01d29db3c4881555",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "49f9694bc75fa8ad529202274ebfb44f",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "664e0841077a29c633d01910cf555bd9",
+    "normalized_answer": "9.3"
+  },
+  {
+    "id": "31713fa25047f0bc33b9cb0eb35369a5",
+    "normalized_answer": 12.63
+  },
+  {
+    "id": "aaa888af37323b06db357eeef775a88f",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "2d0ab919f089be047c3e07cb909a88dd",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "83cd5ee7d1f467fb56fb51d335a9d017",
+    "normalized_answer": 3
+  },
+  {
+    "id": "aea0cefca9a3c7e38a93911c5d4ff202",
+    "normalized_answer": "1.4"
+  },
+  {
+    "id": "3937db4003c8e094d5dcd8d97c86f6a0",
+    "normalized_answer": 8.28
+  },
+  {
+    "id": "70be712545a83d6bcd351d7ecfcf67f6",
+    "normalized_answer": 1
+  },
+  {
+    "id": "87dda23c35ab56cdac1c1b8f45c5e3b3",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "d9f3f063937e9a7d2836e1366de48e88",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "57ecf5ca6e245cb3fa5d8b73bad605d8",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "b4a48c1a06ba033c4042b376c06f9696",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "3ae3b72edf16ed2701d5ef37d9dc5cf5",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "c4f36503665c44f86daccbc3f36830ae",
+    "normalized_answer": 7.27
+  },
+  {
+    "id": "05527070a5dd9c4a5d4ceaf74f65fd6f",
+    "normalized_answer": 3.56
+  },
+  {
+    "id": "7cdae5971cf5534c54b8332c15a54c0c",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "fbd9edbae8404fdaed43da58a78ee1e3",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "92bec3695dc628e16c20d8d2097b2348",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "46674811c620d681cb617eaf59d38bbd",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "e62c9a489430bf0e6f0066a9d9a547f1",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "ac4dc700c8cc5937573141e5dace07de",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "3bcd00fb7bbe75bbac7fd06b3bd07eb8",
+    "normalized_answer": 2
+  },
+  {
+    "id": "5fcc01dc61386c0435b90a4458cd2c0c",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "0e5c5b079cab091ff0b3bff6733efb1a",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "a12aef7f28c1df50040eccd8e30bfe23",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "bb79d74ff8d825e5ffa51f4f8ff7e137",
+    "normalized_answer": "10.5"
+  },
+  {
+    "id": "0edb41170f0e83a14382d186f6884edc",
+    "normalized_answer": 10.94
+  },
+  {
+    "id": "cd1c68e33ed7b766f045ff3eb8edd692",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "e699ee2adeb4d4b0848ee1871e1fa4c4",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "9ff4a7467b889242f3618c03f4ffd8a4",
+    "normalized_answer": 15.52
+  },
+  {
+    "id": "fdb8bc23cc112da79265ff258e74000a",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "cbb8560658ce3bd5ef36ec1274bdcda3",
+    "normalized_answer": 2.39
+  },
+  {
+    "id": "b41bda3bf2143e4c7adb05489f6082c0",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "3954363bd0e507895415e92cbcd6c247",
+    "normalized_answer": 1
+  },
+  {
+    "id": "d7148e8f5aeab9333f895c24906ef8fb",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "678c664c413d05beb7d9a9e892d7c567",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "7349205bbec6fd8049008704fcb2a70c",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "f400d5f84a44b5722078a088d976926f",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "9939573ba097c0477eb85b2624b5b2dd",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "5b99aeacf797b86afa83de3230a8e12d",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "b912a8d7d793b7cbf8d96f4f9660e4b2",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "0034eff8b94010973c822b8d11ccd85f",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "e03c167ab3bf60fffd1d3d6aeb09cd07",
+    "normalized_answer": 3
+  },
+  {
+    "id": "983c56c7649330430c649c2f96c5effa",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "46d5ea0e9bf6e9d635c5b6ac9df952d1",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "546d3955129737e2b6b3ce0290b82d3a",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "7236044bd85763d479a7e0e8a3f42ac3",
+    "normalized_answer": 1.18
+  },
+  {
+    "id": "02d1462c0dabffb5888fdd7dd52a4290",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "5bb5dbfeb46a103b15b1118ae15751ff",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "9c0dd55bfb4caf567ff088b5625bf2c2",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "3a58052c08899b408010b619d959dd99",
+    "normalized_answer": 3.24
+  },
+  {
+    "id": "05d367dea857706f5b9fd0c067c657a0",
+    "normalized_answer": 4
+  },
+  {
+    "id": "9420211f0b9f1f505e68e127703730f8",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "0834bf81d09ca9fa43deb13b33332e11",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "5da81302bbe963748e7309af767b000e",
+    "normalized_answer": 1
+  },
+  {
+    "id": "0915735e60d9965b829431a20c53ecc9",
+    "normalized_answer": 4.92
+  },
+  {
+    "id": "11a114cfa7535967bfa12e6c9b749f40",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "bd12509b5e07c2b0131238b8dd1f1485",
+    "normalized_answer": "4.7"
+  },
+  {
+    "id": "bbfdf18bc4a68bf704ac908cbf4cb3a4",
+    "normalized_answer": "10.1"
+  },
+  {
+    "id": "3f1c3e6884b7563511b85b987994a279",
+    "normalized_answer": "22.2"
+  },
+  {
+    "id": "a8a58237e693f3379380539c4c5f348f",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "b424a70e25a1fcfb6bb272ba5a827290",
+    "normalized_answer": 12.63
+  },
+  {
+    "id": "2eb6cc09ba85acc1c227a34ee207f278",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "af6485f04c4e6ef177d69ac982d750dd",
+    "normalized_answer": "0.1"
+  },
+  {
+    "id": "7e4bd4e8c05ea680c61cff2944ab7181",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "456f0c1fecff7d6b7278d2f25fca43cf",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "ac803aa1ffa843ec607bb115c6163eeb",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "17f979827ac1692cc3856e4cb06d2fff",
+    "normalized_answer": 11.97
+  },
+  {
+    "id": "40b75cf6381e86003198e6c6c0d4331b",
+    "normalized_answer": "11.2"
+  },
+  {
+    "id": "165eeec24b0ce473f2b8e377b104e2b2",
+    "normalized_answer": "9"
+  },
+  {
+    "id": "9c2fb12c61c97bfdf56cd6156194123f",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "09a97366dbed338c55d81181b7a0eb1e",
+    "normalized_answer": "1.8"
+  },
+  {
+    "id": "f95f461ea3a4f9bf0066112b09b2f8bc",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "b3900f175aa2d80553fc698335dfe6aa",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "e2a01b0ca1f3c2e5133027f7bbd504fc",
+    "normalized_answer": 0
+  },
+  {
+    "id": "4b0d9138115f1e82d00d0baa39bc858d",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "d7e1a9c6c20fa02c9a056640c516cfb0",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "e0e647a6911dcdb99ee496a7fd237587",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "f3fadab243cd3884d417df8687d7ac71",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "5746ad9c930f4e675b6ab8deb5e7f5e2",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "01e3e3cc8a464ab1825e4a6bb5bf17f1",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "db63945cedd346b2db249087bdb9c4fa",
+    "normalized_answer": "0.1"
+  },
+  {
+    "id": "80c50dd9de281b183d754171dc689989",
+    "normalized_answer": 3.47
+  },
+  {
+    "id": "65f72c793cd3690501f9f2e76cbf6a34",
+    "normalized_answer": 7.38
+  },
+  {
+    "id": "5e8fbb53c7902469630ec90d347fb577",
+    "normalized_answer": 0.83
+  },
+  {
+    "id": "01c777173d18480298b22fe799714e54",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "f84efef2efc92ecb2070751a59f5526e",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "9ffefccdc016ad9560d12246e85b6461",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "4d15b86af8a3427cf5b178e6cbafcd98",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "aca65733330265f67b366fa2cfc8fe13",
+    "normalized_answer": "10.0"
+  },
+  {
+    "id": "0fa922fb6fca628293fb9b77051ae188",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "73de5cc4c5dd6d10f7d1b4190732e370",
+    "normalized_answer": "7.2"
+  },
+  {
+    "id": "18c66566c7895770f65856a31bea53ac",
+    "normalized_answer": 3
+  },
+  {
+    "id": "0ac630cbb8e58cab5079c60a65759362",
+    "normalized_answer": "5.0"
+  },
+  {
+    "id": "e550767d0b9bb2d33f35b886b1441fe7",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "ed364fc6bba7ba4207ff118f20eb18f8",
+    "normalized_answer": "0.1"
+  },
+  {
+    "id": "0d7f5b0ca13099740ca6467ac7441b7a",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "f3790bcac16360ac55e3c6ea1e58e50e",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "723b43f6ecbf3c232a2e3c87373af713",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "59914a104c55f74a8fd9cc98377095c4",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "f04fbcba083ac29929297b99af864c2e",
+    "normalized_answer": 14.89
+  },
+  {
+    "id": "08571edd2ee7a40122bd27f05f55d7e1",
+    "normalized_answer": 1
+  },
+  {
+    "id": "31c53ffbf9e4a6ea7c28c76536b9acb0",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "a3174dbcf928a2f2d57bbf2b060cc7ed",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "7efcc9104b5a158f8c64502e14ff022d",
+    "normalized_answer": 1
+  },
+  {
+    "id": "dcab3319083e1d5e24a6c8e81cf997fa",
+    "normalized_answer": 5.02
+  },
+  {
+    "id": "44eccdc9e7abc787a04d0e8dd52bd77c",
+    "normalized_answer": 3
+  },
+  {
+    "id": "0723742958b8ec15830af9b11df11002",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "5b174e88bc416d89d385667424f340bf",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "af6ba4361ff1586726224421c4494d1b",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "75405707e6701d8e7902cf74db5fe457",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "441392dc46021c112ce72a26c4f48baa",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "78255bfbccae851623d27287a8491e75",
+    "normalized_answer": 1.78
+  },
+  {
+    "id": "40821236029239bc0d8f4064f1e45b47",
+    "normalized_answer": 0
+  },
+  {
+    "id": "a06b90500a647b9714738f3f2c96fda7",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "3cdf8ccc95f24c326b36eec3ad50566c",
+    "normalized_answer": "8.1"
+  },
+  {
+    "id": "3396897e494ec044d2a81f4c96711d56",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "08a1cd6545db9ac7f5fd1fc57993303d",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "00ef25bb9d8488b1eab7920a12a3cec8",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "d73ab1e2fdb51ac9f899fc97e2a7e2a3",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "36a841ace74aba8ea4ad41761a0ccaa1",
+    "normalized_answer": 7.38
+  },
+  {
+    "id": "00cdf523a9a87e1e245c6cf729971b1f",
+    "normalized_answer": 1
+  },
+  {
+    "id": "d9f887f583de33b392c480bbe05bf2c8",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "3004f47571ad3f7435764b20ab353c68",
+    "normalized_answer": 2
+  },
+  {
+    "id": "93444360a37d1f8f2f19cb4615114584",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "1421bbdd074400f6cd0f888fb83ec8a2",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "d490f2a4bf5b36ec064ca4d5e9331723",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "f04d31dc6acca7819adb735fa8c809c1",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "741d2c35f704a185938b14bc4c55fdc2",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "c7beb40ab17a299d4d66ef10711bb28e",
+    "normalized_answer": 2
+  },
+  {
+    "id": "c390fec24319f67ee34c7995647cc98c",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "f11eea1d8758ed045f40df971c714fb6",
+    "normalized_answer": "7.3"
+  },
+  {
+    "id": "5c7206e647f2020274d389c7ef6ef72f",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "e3f5eb71dbf2f6581fe7278ae0a02c19",
+    "normalized_answer": 0
+  },
+  {
+    "id": "14c80d0c66d936b53210cb7b4ac78f0a",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "07412ad1a8ffedcfb9d66c431c25452b",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "84ae2bb6b9d37df095dfebe20265a752",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "10efcb08d1b974aac31b5a4fbf9f358c",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "ae6e337bd7678da1ed7aeb5650f66dc4",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "70012530d0dd1d0fd74967c9fa970491",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "f6456db72bf016b05ff1f2b41bf32445",
+    "normalized_answer": 1.27
+  },
+  {
+    "id": "be60770a1fcc67772f72a5223d92f80e",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "6c105d7c4d9d1d2028861f2c822decbb",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "7dc31c3684e7e2a6bf57113bf7810cbe",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "f7de5f9c745bd046ddae4b84dbf5d27d",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "0fb26442543a34940fc9bca6ec56202c",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "a2340f72a70192cd0773cfbc974d0f3d",
+    "normalized_answer": "0.8"
+  },
+  {
+    "id": "00b7203051003759d7e250822a074942",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "0fd71e6bac570c7152e2f59a75603adb",
+    "normalized_answer": 2
+  },
+  {
+    "id": "b7e3ff6c4a1cf65a8603765e3266bb56",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "ba94101dccb13ba8264b0fd499ee5701",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "c9c08abcea8085f40d2b23b53a561c7c",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "bc0893513903fb296c5aafa52b29f491",
+    "normalized_answer": "0.1"
+  },
+  {
+    "id": "6a228726f8affe6e0f39c68a289a9b0a",
+    "normalized_answer": 1.05
+  },
+  {
+    "id": "70f959fc844835cfefb8ce5148341232",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "633f2aad5c10e3e48b8c3653b3a6fc63",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "c3c6a7fa4438bda504959c4e0318fef1",
+    "normalized_answer": 4
+  },
+  {
+    "id": "0d7c61cf9f21d038d951f613a16145ea",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "71aa9b0b6144069d2c622b5cc843b20b",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "1f57d5220af3da66ecc43ddc32d0770f",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "447fe354ba7a8c2761ae12ab50545420",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "e75261fcb277838459cbe4b27693b1e5",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "4743fba2663c052e02b3080a7cdce15c",
+    "normalized_answer": 2
+  },
+  {
+    "id": "85b5bf38cbbcede966cc9247fd22fbcc",
+    "normalized_answer": 4
+  },
+  {
+    "id": "d1596bdb2d32224b1cf66eab182ba375",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "bcf9fa7cef811bbcc6c66ae7ee1ff2c6",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "9e516ca0de5b3295c8de1d67d8940e9b",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "aa731964008d22254047b94330f34c37",
+    "normalized_answer": "9.9"
+  },
+  {
+    "id": "559194af73796ee50826e2bd6458448c",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "6491cc0198aa22cb6531e5e1548fdcc3",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "1650e2cb2eca74be8f4cafa944658e33",
+    "normalized_answer": 4.78
+  },
+  {
+    "id": "67ef84657fbdcd408e7565d712f43f33",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "043791e0074bca229fa03740a050fb9c",
+    "normalized_answer": 9.48
+  },
+  {
+    "id": "03537dc0d9c68d55ebd9570b363dfdbe",
+    "normalized_answer": 4.48
+  },
+  {
+    "id": "782987c28fa75f029ff5c4d5065ad5d5",
+    "normalized_answer": "15.3"
+  },
+  {
+    "id": "9b464fb002a5c10590ff04a3ec517b42",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "790ccd5fe9856913024e766cada1e14e",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "b68753c0c4b093bd2eadf8398767d27f",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "ef3862ab4e19966e1e3ebd19fd9eaeb6",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "a9da279b98a2e0cb158f2b463625c627",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "493f086c52fc9e051ae2a936f1e74688",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "ed178aca18e71b45315e91b43fdf3078",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "a54373058fdf30002d6c87df7c72d5bc",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "b8cf7b69934fdeb191e92d0a9030f70c",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "e958b90950325b9a0e647b6bca936b03",
+    "normalized_answer": "10.4"
+  },
+  {
+    "id": "f24ac0b3c3d38ce2439cab55a6704bfe",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "7e43dc762b3da127672d6dcf0d703bc7",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "2313950666094c05667d5cb1be9488d4",
+    "normalized_answer": 14.98
+  },
+  {
+    "id": "651ea7dfd1dfc0d83019f8796e7f5ff4",
+    "normalized_answer": 2.59
+  },
+  {
+    "id": "41dfd8a9286c469e5c6ae9f74b82ffb2",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "3243d0f492deea18f51c5c3849b29ea0",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "f9dc622a6be0f0dd7fff4b83e8ac09eb",
+    "normalized_answer": 6.57
+  },
+  {
+    "id": "381af8b681913e0c7b36bbce4a394d27",
+    "normalized_answer": 0
+  },
+  {
+    "id": "c220692041ec8164495c108c49d9ce2b",
+    "normalized_answer": 12.7
+  },
+  {
+    "id": "52012ea209fbf80373f3d3eb54882f86",
+    "normalized_answer": "9.9"
+  },
+  {
+    "id": "e8491dcfe3897a81dd33f349c16c0bbd",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "8be8c3ad12bf52430420ba057d450c0d",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "24f7fd562f9699009eecca124781900e",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "1ea05cf5d25eaf8f72c6c2c7c6c715b9",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "a6483cfcca22fc151b7ffc78faae183f",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "518897146d196ecc481f88e70921af27",
+    "normalized_answer": 1
+  },
+  {
+    "id": "32d2fae06d708320cf081a2fcac5f334",
+    "normalized_answer": 4
+  },
+  {
+    "id": "82f5e90c779f8718a07c419e1c07a6dd",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "c949d3d4f0177451e9639cfb8c38713e",
+    "normalized_answer": "10"
+  },
+  {
+    "id": "39fa00f9ad0b922e872d012eceabcd33",
+    "normalized_answer": 5.77
+  },
+  {
+    "id": "96499b97e862470b8f2a01d4d0794ce6",
+    "normalized_answer": 2
+  },
+  {
+    "id": "b9a223b43a2de5ac2c15d1fa48c469ed",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "8e3f66c0f87283755a5a00470ef30d3f",
+    "normalized_answer": "5.5"
+  },
+  {
+    "id": "fc4fe5577225b402e9d9a21994c388b5",
+    "normalized_answer": 15.04
+  },
+  {
+    "id": "7821227c797db8fe53287abad2b7d410",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "c836db463ef565623db219877dfeb335",
+    "normalized_answer": 3
+  },
+  {
+    "id": "186672a21b83fa703f8f3dea9f8e0647",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "bd4c478b1a3d39f39ff0124fe2d8a74d",
+    "normalized_answer": "3.8"
+  },
+  {
+    "id": "05d4dd838d324cf97931c798066731d6",
+    "normalized_answer": 4.85
+  },
+  {
+    "id": "9ba54b1ac442ea208d022402156f6464",
+    "normalized_answer": 4.42
+  },
+  {
+    "id": "4e2bce1473ea84ec86855e4669b9b1cd",
+    "normalized_answer": "0.1"
+  },
+  {
+    "id": "a0183f5a293011ea25a4be26a4f1caf2",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "8e3e3eb3406a1cc801e7c5e7b317c42f",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "f2778978aa1808ba5b5e4fca18a0fa77",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "0d37a5fc500ab9b6ebaf3d475c10f459",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "f9d22ae4e2294526e2acb6a4797a1603",
+    "normalized_answer": 0
+  },
+  {
+    "id": "b64ca438b7d4bb56d2d54e9820ca5e2d",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "fbffec2adf82577cacb236e5ced9a8ae",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "7d8083a19cf59c3fa5ea2a797da78d13",
+    "normalized_answer": 13.49
+  },
+  {
+    "id": "d3e3b083f42c335fb74827c3368bab61",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "d493d0f6da009497a63873f6d8fff199",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "8e21ed6c42c6728b8fde8dc2e2bb4576",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "7b7b4ca402f472e449f55c3df0836996",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "748af847debcf65354befcb794cde988",
+    "normalized_answer": 9.47
+  },
+  {
+    "id": "601e52abe636448e22d5e3fec6930ba3",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "3230b61785adb71b9af449c9cc43ab48",
+    "normalized_answer": "0.1"
+  },
+  {
+    "id": "a71a42104fa3b5cef28a3c02c0e1f1ff",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "2b3090f41488cebd66aa2027f4f7281c",
+    "normalized_answer": 2
+  },
+  {
+    "id": "1fee91e19a93c5156193d2105852d5a4",
+    "normalized_answer": 0
+  },
+  {
+    "id": "381243bfe73d13769222cdc487dc37d5",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "1357a74c64aa2000e9addeb4a3e4d135",
+    "normalized_answer": "12"
+  },
+  {
+    "id": "91fcf5a59178573e2222a4a97722fcaf",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "057d860341273b27433e06c63fc10b89",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "e789bd80bc25a44f981ae42ead711e6b",
+    "normalized_answer": 3
+  },
+  {
+    "id": "1d6724a272c73f18bdf9bde1af091443",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "c5c4d7495944b3861fb499bec046f5b7",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "b30d0baa3d63f2db359b62c89a7813fc",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "cbbc1a665ba47fa545e6c1734e2ab512",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "fcda116081e8b0f55a8eceb9b6239dbd",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "e7f92fc03ec8332041a4d68d6967765d",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "37dd17b3d7f8ebe41c3d5449a34a0ce4",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "c993620743c70bb6941b7370e59064ff",
+    "normalized_answer": 14.57
+  },
+  {
+    "id": "ccb0005d99699625ccf7f3c7c2217120",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "22496798a3400e3e7771e5d9fdd0a032",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "3f9feeab5d1e44110ee7602f2bd605f3",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "af439c36098a5c959486100924822f91",
+    "normalized_answer": 7.06
+  },
+  {
+    "id": "0894b6c5035d96af75f9fc5a3c150d9e",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "9febddbde0584f9400b8da8bbde57264",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "e2daf82dfe0129072cde9b3f04d8a9ca",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "f3c2d1c80c88f8c705eaf5b53c197ca2",
+    "normalized_answer": "15.3"
+  },
+  {
+    "id": "ee10e0163f6849bb934def0ba6b33581",
+    "normalized_answer": 3
+  },
+  {
+    "id": "523707dcc5c9389b18362d7f55859ab9",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "51a07d892e7884b6edfff107e7afa35b",
+    "normalized_answer": 3
+  },
+  {
+    "id": "204354a503b444bff2a48a2cd646d646",
+    "normalized_answer": "0.1"
+  },
+  {
+    "id": "10259cc3b76f47d4a4d9b0dfac7533d2",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "3b9db9022f6cc6a5fcb15310ed3001fb",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "1da1c69e04c7c1da430acaac26c0bf88",
+    "normalized_answer": 8.28
+  },
+  {
+    "id": "ba47b2ebd4fee1ca44a40584df58cc03",
+    "normalized_answer": "10"
+  },
+  {
+    "id": "e8a683ddd7e0a8ac0ca4df58e1d6fa38",
+    "normalized_answer": "3.3"
+  },
+  {
+    "id": "8cda86d36609182ed022ede52cb35dae",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "d61ed29526b167caba60dd5a25785a07",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "5abcc7701118aa8659055a74b2273d4e",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "83c7dd71db82b16656b9daf1b8286e20",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "16cfc0d1b22a586bc8cea04ede3b4837",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "4f37bf8e048224809b23d8f082b8b8c1",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "c5e48da133ff5eb2e010b090df8a44e0",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "a797626e1c9a58b657956aabbf66ab18",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "9b0ebf72e7b0ed21147a4fcad3dd7e51",
+    "normalized_answer": "16.9"
+  },
+  {
+    "id": "34fb7054c3ea36152fd1c9a40f1c677b",
+    "normalized_answer": "10.3"
+  },
+  {
+    "id": "252dc01e60869d5226b62b2f12322037",
+    "normalized_answer": 1.29
+  },
+  {
+    "id": "f2eba788eb8ed879dcdd17b4a8a89f8b",
+    "normalized_answer": 15.27
+  },
+  {
+    "id": "1ce3f4281de9a8fa2db010c2686d6d95",
+    "normalized_answer": "0.6"
+  },
+  {
+    "id": "c9132c0df9fabf48af280106e117c578",
+    "normalized_answer": 3
+  },
+  {
+    "id": "1d6d168a693d8492ea10f413e9c98e19",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "34c3cc6941b885092ca9175cc355e9c1",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "0251204996ce471e3bcf14cafbd94b6c",
+    "normalized_answer": "8.5"
+  },
+  {
+    "id": "92efc793ab7e36065f674c24554fdefd",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "a7b03fd478cdc221d294b6044c3ee342",
+    "normalized_answer": 4
+  },
+  {
+    "id": "2e4b237185ae2dac6a8bbce7f380a9c7",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "1d49dad480a9264b21be4c4a9a7fe08d",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "10cf3f6319e86698aa354e6088dbd67c",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "2c89daf17c082c148b1823f3de551b09",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "153aad6e48fc382b5c64a71cbf364965",
+    "normalized_answer": "10.7"
+  },
+  {
+    "id": "e9e7827e01433d7bebe615246571d52a",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "73617321cf5f134dff827d7beabb27b8",
+    "normalized_answer": 2
+  },
+  {
+    "id": "6fad7d2d92e6c6b44d8e1b43d35e1c6f",
+    "normalized_answer": 17.5
+  },
+  {
+    "id": "e6665ac2c03a94c3067e06a3da07a5b3",
+    "normalized_answer": 11.02
+  },
+  {
+    "id": "7248c59b46fcdd26eab4b7969d9feb6e",
+    "normalized_answer": "10.7"
+  },
+  {
+    "id": "8464370c79b855d1da2975f89b43884d",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "b41cb666a37cb59b440bc83b21520a7b",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "a7c0fc523d872f8955bbdfac82352662",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "11f83a177e1c75b50966af90ca1e051e",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "c58fae6f342335a435c8d386eaeee6aa",
+    "normalized_answer": 14.59
+  },
+  {
+    "id": "42d35dd25ccb5921713aa9d5e5c48ffc",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "5b9a48e14b3a35c9db60c721d6962b33",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "cb410a53065595349351662a5a5a1fa9",
+    "normalized_answer": 2.69
+  },
+  {
+    "id": "baf3214e233ba13ec5eca5261805ebaa",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "94ed7e8b38625efbbf4490d14f9d658e",
+    "normalized_answer": "10.8"
+  },
+  {
+    "id": "daef9dde1ef0de7b033cee60c38b606b",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "3863bdd88e7480535f21e97e2683b4ba",
+    "normalized_answer": 2.83
+  },
+  {
+    "id": "4bd4cbc3aeddec27581299e6de260d8c",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "3f45feb44a87dcf6a327928032b0d9bf",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "8bb3a1014c5e4fc2ca028ad78c4cc366",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "0ca35689f2870cf5b8b6155a0749588e",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "41150b288539250a048a5e555827047d",
+    "normalized_answer": 0.81
+  },
+  {
+    "id": "c3bf8b8031c9dfbe246fd54d8b1e00e2",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "9230725214f6ff28c3670a66301a4bba",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "d37cb0e5ebdc45ff81075ac563e002e7",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "4ac8b0393ad6fbe0c3286b86db235c63",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "5ac4d1767cd66b25d133d8fcc8f3ceef",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "d500c4b20d89bfe5ef889038059c5c1e",
+    "normalized_answer": "0.9"
+  },
+  {
+    "id": "b4e34271d5d4c264986d8d552906916d",
+    "normalized_answer": 4
+  },
+  {
+    "id": "ea694531bd7171b7c4268ce82128490f",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "3ec925f760976625790497ba54560db3",
+    "normalized_answer": 12.4
+  },
+  {
+    "id": "4fa74579cd98baacc404518de30d0f97",
+    "normalized_answer": 2
+  },
+  {
+    "id": "b21ddfab462cb8f116b78f38d7c558a6",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "aa23aafb61e995291cf293bbad5bf1a0",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "3a21e84a458d2716c627701f47946175",
+    "normalized_answer": 3
+  },
+  {
+    "id": "6a77860d38e43e5632e73a224ebc8b1f",
+    "normalized_answer": 6.68
+  },
+  {
+    "id": "959ab7f337b4249bffcc0594ab1c1785",
+    "normalized_answer": 2.61
+  },
+  {
+    "id": "52772c3a9b131c011ae2717af92a68eb",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "2d8fef905385a9c916a2028e41d15e7c",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "9a74e140222af524b769d9534e7f14b5",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "d41816207882abb8113179e5d54a79c7",
+    "normalized_answer": "16.6"
+  },
+  {
+    "id": "591137931fb82c1b5e06ba4134b373d8",
+    "normalized_answer": 1
+  },
+  {
+    "id": "b60d3a738acb129ace31d8bf268c6a13",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "c3f56f68983fa8cd0b13d911818b6d0b",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "4e5feda06abc867a837de1d0a5cec2bd",
+    "normalized_answer": "11.8"
+  },
+  {
+    "id": "dcb9b6637969c6629cd1c15d24a44fc1",
+    "normalized_answer": "11.7"
+  },
+  {
+    "id": "c914a46d324fb5b546b8e51df599f067",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "98a8b2a7013d405f16bed78844f1ac58",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "078a88e7bc60d56b1fe16636b454f80a",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "71a91d3061fc7712d44b866eca7feffc",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "96eb8b57c8f4fd566a290efa1e820f97",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "0355f462379d8c8b7412b6bfe348bede",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "bd5bdb0d258d520a4ba3a7cfa225257e",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "50d1cfb09d6daf453c5f2fa9142d4b24",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "16691114921afd72a3a6e4e0249028d4",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "965c0e7e600f06f7dd1abda5fcdfc333",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "15f3a9bf2ae97ddd0d90721dba19b9b5",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "2edd921a4e413f2cb3db6610f50f442d",
+    "normalized_answer": 4
+  },
+  {
+    "id": "2db1371e08b65c2b68bb61f6eec2f0bf",
+    "normalized_answer": 4
+  },
+  {
+    "id": "055101ca647a98aa68e9683ca426cf96",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "7097a99df33c35f529a3c120745e2504",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "d0765e4043e2a722ca056cc9f94b0f75",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "bbde96831cc9f50795bb743f54e0c90b",
+    "normalized_answer": 4
+  },
+  {
+    "id": "cfa1c96d1d7825a01b1151824d768ca9",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "80137ec5651b9efd174b4d3b92af1908",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "388af0b4d882ed3e3d8d2c696d290448",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "1b070bf59f66876428c9f961613362c4",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "2f6df37c20cb5dd2479048b6918b4e81",
+    "normalized_answer": "18.8"
+  },
+  {
+    "id": "982703b3bb8182ba120dcd0ee3c19ef3",
+    "normalized_answer": "5.3"
+  },
+  {
+    "id": "dc259e2d4ab2ed71947b6cc5521d1c47",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "9ce3dc11b339df746920b2b31cfcb8a0",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "f2ca231a3aa91ba4b14da73da46fb923",
+    "normalized_answer": "0.7"
+  },
+  {
+    "id": "469e7bc1aa1542d363d06ef7806bf4af",
+    "normalized_answer": 11.32
+  },
+  {
+    "id": "08ac11c7b6c65265364759d579cae440",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "d49983d67b1fa90770b731d761276ade",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "6c3e94de7a661a862e3a4b56ce058225",
+    "normalized_answer": 11.75
+  },
+  {
+    "id": "b1ea208d9284894fb7ace294443042f7",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "43a774cd680174590a5c46d7837e6f8b",
+    "normalized_answer": "19.1"
+  },
+  {
+    "id": "5b9a66f899aafffd3bdd28745313afe2",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "0d7b26d3a6ca36e20d6afff2c847e2cc",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "ca3dfa1b83d7c46c93b7e67e75e043d9",
+    "normalized_answer": "6.6"
+  },
+  {
+    "id": "85eb3ca4b0a9946907f038056281f633",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "726a36c7b6116d072a5fbe0225cb221a",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "f0006a88383fb9ebf9f2a46a8d4b8412",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "0a9c3d961cb3718d7b68adadf1b85cec",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "f2dbbb2b80f6a2a100edf8f6c55b5cff",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "9d79e057383620fed9c5f5c3c6fe6057",
+    "normalized_answer": "7.8"
+  },
+  {
+    "id": "e7e4a34ae09d3877ea79bf807513015d",
+    "normalized_answer": 4
+  },
+  {
+    "id": "c51e25fb82764a2af1ee67ab6f568736",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "f4864a82c9c2c1c496e017b64e68aaee",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "c2da0990df47bea784e39c8e0306e859",
+    "normalized_answer": "5.9"
+  },
+  {
+    "id": "ab2a9e79377795a59ddd3065065052bf",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "3b5a11e6dde950fd9d6f649170fb8299",
+    "normalized_answer": 6.36
+  },
+  {
+    "id": "0ddb9a95b628b6b4b37cde2a3fa8a497",
+    "normalized_answer": "9.0"
+  },
+  {
+    "id": "7f60bb221a1bd7fcd73307dd940a385d",
+    "normalized_answer": 2.07
+  },
+  {
+    "id": "edcd6545b97b182e6282046eaed55c44",
+    "normalized_answer": 4
+  },
+  {
+    "id": "634f2ca376e386b3d0ea908b48e363df",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "1cd14ca53167102bda1e9c4ac4c9989a",
+    "normalized_answer": "4.5"
+  },
+  {
+    "id": "0a298fc3c1dca3e4943ce89c3631bab1",
+    "normalized_answer": "18.4"
+  },
+  {
+    "id": "54623dcb495d1ca6eebdeb93e5154d5f",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "23c33f1b3db606596a6d230693d12799",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "291ca630785ebab7a3c5a1da61446c62",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "cc196257fe5c7c2473b21756e60b84eb",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "a835eb1419c61a28e47a2de7299a9311",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "9442cf40a500277590b1c585041c7530",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "44adfd96a418d73b5d44eade31c2a39d",
+    "normalized_answer": 2.17
+  },
+  {
+    "id": "b220778c08afef04f43006521ddc73da",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "77bcd1248d38f69622b0c719fdb260ba",
+    "normalized_answer": "1.0"
+  },
+  {
+    "id": "9b7626e410205316c2b3f9fa1e6a3c35",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "60b94a2038a6d718ccc66234c65a2a09",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "2b8e3e65dbe976df100e32904817e20b",
+    "normalized_answer": "1.9"
+  },
+  {
+    "id": "f85621dee6272aca3e3c62f12acfbfdc",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "b0b40b5538ae5fe2d133d4004f1809c6",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "56466d23dbbba7ca4d2517f3a5de586f",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "28bb769f7d015c34d0c1511fdb9ffc23",
+    "normalized_answer": 2.47
+  },
+  {
+    "id": "b5cbbf921c339c53ff2f9a4910c5a12a",
+    "normalized_answer": 7.14
+  },
+  {
+    "id": "d99e17950c40f7ced9efe0183c0f082d",
+    "normalized_answer": 3
+  },
+  {
+    "id": "570c9036c9d5b0e122a1c652c888306f",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "42e32925b125c8f0854d1e12d0ba8295",
+    "normalized_answer": "9.6"
+  },
+  {
+    "id": "49b3d32a36ed8268a2d5c426abe4d603",
+    "normalized_answer": 4.43
+  },
+  {
+    "id": "1715164b73df0b12735f2c4e0b220dd8",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "bd83092fe9377ccdd75cf4df7c5324d5",
+    "normalized_answer": "8.1"
+  },
+  {
+    "id": "740c3b60665ebcf505a05b32fd1dee59",
+    "normalized_answer": "7.8"
+  },
+  {
+    "id": "96fec0ef54198540da9e6f5fbe29e556",
+    "normalized_answer": 7.84
+  },
+  {
+    "id": "f870eccf577cc3b1b4f77de0f3a44f21",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "02d4e2f3d7989daab222f0583de267e3",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "35f1af30b1965da7257457c06bbd94e7",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "d70379ccc5b0d481a893d60669153971",
+    "normalized_answer": "1.0"
+  },
+  {
+    "id": "9c012710b076ab5334ed8a4389d0e744",
+    "normalized_answer": 3
+  },
+  {
+    "id": "ba9ebc91a396603c2dddfb1c612d126e",
+    "normalized_answer": 1
+  },
+  {
+    "id": "643a94fce695bf9a0e98d862f08530fc",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "055d17d09760ebbf5666ca8f556e8a28",
+    "normalized_answer": 2
+  },
+  {
+    "id": "89f475014d951f97aa93665a3e43e46b",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "56d99bba23ace9390a0a26d79863ba94",
+    "normalized_answer": 10.97
+  },
+  {
+    "id": "74e4e52fa163a236860e0b172a9e70e6",
+    "normalized_answer": "15.0"
+  },
+  {
+    "id": "c5cb298038aac93300388acdddfbe6ee",
+    "normalized_answer": "17.6"
+  },
+  {
+    "id": "6816ce0ac4b0b53960cebf40910b39a7",
+    "normalized_answer": 3
+  },
+  {
+    "id": "80b657b9a1d27cddb557bce84af83d0d",
+    "normalized_answer": "0.1"
+  },
+  {
+    "id": "1015ee238d047b40bee0154a8260a40e",
+    "normalized_answer": 2
+  },
+  {
+    "id": "5624fe42cadefa41d3177df963165a11",
+    "normalized_answer": "2.7"
+  },
+  {
+    "id": "37763c03557c104aaa18b3ca4d7ad51e",
+    "normalized_answer": 13.68
+  },
+  {
+    "id": "7133cb3cc8bd6e33151d1de0d6d093e0",
+    "normalized_answer": 3
+  },
+  {
+    "id": "ab7cbc32433a2e7b12bfd7b5b5f75f68",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "ceb54202149b7226c2624c5af3ab1f5b",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "ba3b9a5d0caa709c634d27ceb91779fc",
+    "normalized_answer": 14.17
+  },
+  {
+    "id": "397b58519ca12f9fe70eef2949b9ec4e",
+    "normalized_answer": "11.2"
+  },
+  {
+    "id": "740fb9d50ac4151c0d4efe93629c4557",
+    "normalized_answer": "11.8"
+  },
+  {
+    "id": "ab77f8987b952c0769291725e0be0501",
+    "normalized_answer": 8.58
+  },
+  {
+    "id": "b1172730453c936aa02119c485b721b2",
+    "normalized_answer": "3.7"
+  },
+  {
+    "id": "54a32cd77dca7e65a3de95a290c67b68",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "86343f8c234515ae12470307b5b782cf",
+    "normalized_answer": "6.1"
+  },
+  {
+    "id": "c7abc17d941b71dedd68b9735b543c23",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "1fc8c0ddff050ee81d0607c2c7ff8a23",
+    "normalized_answer": 7.96
+  },
+  {
+    "id": "07b7463ffa7bb7cafb64bf19bec73977",
+    "normalized_answer": "9"
+  },
+  {
+    "id": "dddba25fc3f98b88e5d91b79262af4e6",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "540aef2b5381a40433403b6660ecabe5",
+    "normalized_answer": 3.15
+  },
+  {
+    "id": "cc07f449f063c7136ef60c6d67e3eba1",
+    "normalized_answer": "15.8"
+  },
+  {
+    "id": "732fb32d3892d835320898ceb578c0c0",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "4b4acbaabe665c9e28872768a0f3038c",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "e43e5d5f3e28a60a15940bbee1cb7b70",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "67d07098fcb22a9ced62edb73c73060f",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "88173286de87ecc15d73a7d8484bc90a",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "79f97c5a3b6d31c3cf8145492ee215bd",
+    "normalized_answer": 8.43
+  },
+  {
+    "id": "df9ff2aa47e823a180c5cd3306a2c5a6",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "f94ac55d15b504cd03fec7f668fadcd6",
+    "normalized_answer": 14.81
+  },
+  {
+    "id": "e48d64f52f3a79f39923b23d814322ca",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "f74ce94021c4b04cab7c7e7bc2ff15a1",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "8448232d674a16e65c071391e9359f1a",
+    "normalized_answer": 4.74
+  },
+  {
+    "id": "3e7cdb97295b04023bbf2e22a1f6559c",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "143aa32d333c01b026828cf7284136f6",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "be4f6f8e25442abb2f20cd768a408309",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "9e760d53f74ec2695cdeb93a1ca30383",
+    "normalized_answer": "9.2"
+  },
+  {
+    "id": "30c15cfc67ab6cd5eadc868fe2804bab",
+    "normalized_answer": 2
+  },
+  {
+    "id": "a9334938bd3fd6332792ecc7e9287e40",
+    "normalized_answer": 4
+  },
+  {
+    "id": "c905aef0baeee2fe79ec05180f1678c6",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "824f113e06bf3150b199f7ef1c89343e",
+    "normalized_answer": 3
+  },
+  {
+    "id": "265a028f83f040bdcb951a601a9af80b",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "ec4e2d743e6fda049a521faef83b6ae4",
+    "normalized_answer": "9"
+  },
+  {
+    "id": "97cbdab50956c6872f17f29247479df8",
+    "normalized_answer": "2.0"
+  },
+  {
+    "id": "7f48decd5e02c5c69ee5458a7e73fd4d",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "eb0e9a3e379bb60c174c0b6f648018cd",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "d460df3a29cc7d208d4d588c63e83579",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "9d0ad58258c9db68bb25956727958911",
+    "normalized_answer": 7.32
+  },
+  {
+    "id": "a76eda86b707963f6b32793b537e0219",
+    "normalized_answer": "10.4"
+  },
+  {
+    "id": "db225665dd9a46b9ce34aec026e69c60",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "d1683482e83b21d5c136bf5b027de390",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "dd2fd67457cbf493d8bc7941d26bd415",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "63e7d7fa240bb2484fb6fe91fc13c8eb",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "1fc12b87a281d595cf528dd7760ec936",
+    "normalized_answer": 4
+  },
+  {
+    "id": "b5b7b1309d04d4864b6023cb96f2ce8a",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "67fcc36ea044b70208419def8d5d3d4a",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "c3a16bc101c7ba1407f5defdccf06f6c",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "454415c0517ff4d080e55723f437fd1c",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "be3347f64551368f9391562d941762a5",
+    "normalized_answer": "16.6"
+  },
+  {
+    "id": "e1b19872e807a8bb8a43dea6f6eef555",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "8cb73fe9d954bc51d4a4fb3bec165f3d",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "159ac02466472f25fd193785f2da5539",
+    "normalized_answer": "9.0"
+  },
+  {
+    "id": "d295c79310ff2b48eb71bdb030c02bfb",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "c72356bec7a8b957edf3b58d6204e180",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "1c5a38febd256744625ceabf2cafb3a2",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "d51dac3af97a2b74e5b4550d4d79ee16",
+    "normalized_answer": 0
+  },
+  {
+    "id": "6841c04fb71dfcf175e00626845a0b29",
+    "normalized_answer": 2
+  },
+  {
+    "id": "da78f203bbf4eebeaf58148224162ac6",
+    "normalized_answer": 1
+  },
+  {
+    "id": "80a4b311683e3b3056cd46b90d42dfd5",
+    "normalized_answer": "5.5"
+  },
+  {
+    "id": "4ccb76d00ea2b65aaa722990b8a7a357",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "b7d6749b0470af1776b2e0c36e9c7bab",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "ea07c737f5a77097916d96e77322eb2a",
+    "normalized_answer": "2.3"
+  },
+  {
+    "id": "6dac1853eb22e3c58c51e23665c7abcd",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "9fc85b8cb7584410e8de1d707122d7eb",
+    "normalized_answer": 4.36
+  },
+  {
+    "id": "dd9e0f744e87bf2daaf4d384a2b32846",
+    "normalized_answer": "8.2"
+  },
+  {
+    "id": "455182ca232ddb4d0d7ab86b166ce934",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "51cd2fbec483e73e3d0f95b36e734bb7",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "af65297c20c4c0f0396a65179a1beb6f",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "3eb11dd5c174a4d44e59b2623dc27dc8",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "8a332104c8970714bb9e3074c2b4d216",
+    "normalized_answer": "0.1"
+  },
+  {
+    "id": "0762424b9f30bc525277e8503d9e8d95",
+    "normalized_answer": 12.95
+  },
+  {
+    "id": "7bb80b139ca46746fe1955b0dd5b55a4",
+    "normalized_answer": 4
+  },
+  {
+    "id": "c504d5a28d73316631d71dfebe930d9e",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "7a43a16bdb80604362c359de8548a914",
+    "normalized_answer": "8.0"
+  },
+  {
+    "id": "9f4d2763f1a68cd859b71c64e738e073",
+    "normalized_answer": 13.21
+  },
+  {
+    "id": "32bbfa0c11d992b4bab86bd66f2d88de",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "46d795e413610d1fffcf43928a26578e",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "fe819b562c7595e4669f33dae92537be",
+    "normalized_answer": 1
+  },
+  {
+    "id": "0ebeba3fb27d099ef4d9f2fc95081b9b",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "5d06ebc8b9c6cfe05c9ff4227851180f",
+    "normalized_answer": 7.47
+  },
+  {
+    "id": "82ce3f8f83afb19165fb8f1a5ba0fcea",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "02ae8a73855066ebc4e750f6806c5394",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "5bc39887b31540440068fafaafd737ac",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "1be62d6b019c6650adb624a430d4227d",
+    "normalized_answer": 0
+  },
+  {
+    "id": "7ec34c2a32eac8000e8601bd0a7a1bbe",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "6563f553912e34a6bcb2994a08a24bb4",
+    "normalized_answer": 11.95
+  },
+  {
+    "id": "57a4980d028f903f3d3683d18a2faad6",
+    "normalized_answer": 5.47
+  },
+  {
+    "id": "6ce4ee41abb564542ee0807a383e3a9a",
+    "normalized_answer": "16.6"
+  },
+  {
+    "id": "2c1daaa31c9e66d2acbf7450a05c630a",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "75d58f44f298333be16eb28d8ca574df",
+    "normalized_answer": "0.1"
+  },
+  {
+    "id": "5926b43b309a8a13e2561ec54bbc499b",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "94cd8264accca86e19d533fa5b05ad25",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "be093c6b38f1dd7714fd2ba48431ce04",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "2e693e85ffda8d96acc0bf3dc5843f1e",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "b4d3e8ccfa98955ade86ac944b4d79a8",
+    "normalized_answer": 2
+  },
+  {
+    "id": "f1e6694214aeff5b1fbbbd9fd00cdb3d",
+    "normalized_answer": 3.63
+  },
+  {
+    "id": "843800faeaf61acffc62446a9854ea81",
+    "normalized_answer": 10.23
+  },
+  {
+    "id": "4cc73f95374c9da2176cc8f3fd3e944a",
+    "normalized_answer": 3
+  },
+  {
+    "id": "afc75cdea66de08f228b5c8a3c63a0be",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "3b90c4f65c90e9fceec499b2436f0085",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "9929f61ff341480d73694a7dbd701a93",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "2b3854fdde3be8acf71df162de89f4d7",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "81512b8d21b6f7ca091c7df0f4787752",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "c320814ad4d998f21ea893c54d925f7f",
+    "normalized_answer": 14.9
+  },
+  {
+    "id": "cb40c73048004a51998c2195b116ba30",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "b10c2f9c0e34085c06bab29d65f51b32",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "042be82436e0126ba9ab54c4ddb623c7",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "c014f05f546fce90c2e846c8b7b7577b",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "145e491bbff080f3c3f4f3d5f2a87036",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "3c282c4380ff37889c271dfb9a728a05",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "00c87d3617002943298260a449c21695",
+    "normalized_answer": "4.3"
+  },
+  {
+    "id": "479fa211fcc019b350c48f1d2e0bd7bb",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "0c71135b3f74344b7638c21678815165",
+    "normalized_answer": 1.3
+  },
+  {
+    "id": "21494c0bc1afe2c20f1935b29bb37ce5",
+    "normalized_answer": 3.86
+  },
+  {
+    "id": "e411bcc33db4ac5949e75fba242fa12d",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "4d41b3d2ae40362886d709c492dd8856",
+    "normalized_answer": 2
+  },
+  {
+    "id": "a5230e81c9fda1ef4fa9f64ddef98e13",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "7fe9aba62f5960f35bb988b5ed9ccdac",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "ec95d928064bc216ec16c70d38a8fde9",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "d96cd1961d174e1ef3467da299a345a1",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "c69223a6cadfc625900acf2c6f66f85f",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "20951ce8e2fda5ecfa2dc2519716716e",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "5bcf252d7f16287c6fabd287c4b73a0f",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "91eba37a5cd5661e6b08c7fc835aac53",
+    "normalized_answer": 11.23
+  },
+  {
+    "id": "7e6c3e26ae930f4087300e2372afdeb3",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "4c43df1e375b4f8793e5c83e7d9e0c28",
+    "normalized_answer": 5.76
+  },
+  {
+    "id": "b0ce81f8629d6fb15b65c1b31e2fdc7b",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "e0940d25d56c45770a34dcc15fc49d92",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "647d4deb01e620f274a7f36489744e3e",
+    "normalized_answer": 1.14
+  },
+  {
+    "id": "718a3eed862f82c561f5bfef1ec4b24f",
+    "normalized_answer": "10.5"
+  },
+  {
+    "id": "4e2523648c4a093b6948fb51df486c8e",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "ce13bfbee15cd825a299beffc8fb5ce0",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "38419cae059bda2633887cbeef00e356",
+    "normalized_answer": 10.79
+  },
+  {
+    "id": "2667860674dad8abefae7f5bb9cdcd17",
+    "normalized_answer": 6.68
+  },
+  {
+    "id": "d072ef344ab8bcb7ce9974eb6f8d03f4",
+    "normalized_answer": 3
+  },
+  {
+    "id": "c57c1157afd6e2889e4e8746e8f737a3",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "566e8865968a8ebbd4a04d1ca8b58935",
+    "normalized_answer": 4
+  },
+  {
+    "id": "51493fab85f628e48c74a2a7aaf80ab7",
+    "normalized_answer": 3
+  },
+  {
+    "id": "78afd00b42ddbabe12336150e3630a03",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "dba10c9f184e64fcec9a3c2449b7703f",
+    "normalized_answer": 12.26
+  },
+  {
+    "id": "4794c46ab68030c8ea558b0dd478d04b",
+    "normalized_answer": 1.31
+  },
+  {
+    "id": "549b5dfbbb3ac19cea733e3600fa02ed",
+    "normalized_answer": 9.38
+  },
+  {
+    "id": "167b34efe82269e6226b3588758a22df",
+    "normalized_answer": 3
+  },
+  {
+    "id": "07d308fa09183697b5c38ac418dea35e",
+    "normalized_answer": 3
+  },
+  {
+    "id": "b47935e0fb6cdcbb49ecf9903f9b4dc1",
+    "normalized_answer": 4.49
+  },
+  {
+    "id": "70b9cfa3f2fa37f65c37b56c654d3999",
+    "normalized_answer": 4
+  },
+  {
+    "id": "41a7c3fc8238e8f97d8ae43892d1c636",
+    "normalized_answer": "1.8"
+  },
+  {
+    "id": "4f57f1228980fd44cc95eab8fa87e866",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "3e49589a178fd67ed1d41356ce6f453a",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "2266e1b429ce9a9f4e4c82f9091a7e24",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "c9fa9cd2803716c17192b017b38fc43c",
+    "normalized_answer": "11.2"
+  },
+  {
+    "id": "e1c5bf9813637ca424c77903706a92ea",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "2b975b38c7a7c71fcaa43747330bb26f",
+    "normalized_answer": "6.0"
+  },
+  {
+    "id": "469229c0c65ccc22f5a95fde639a7e71",
+    "normalized_answer": "13.8"
+  },
+  {
+    "id": "e421a1b545b1dd8b65c498b4fc5ef0af",
+    "normalized_answer": 1
+  },
+  {
+    "id": "cbf131144c049fffb27037a558be9915",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "5c4829a3d3f146b7af01e9b1c608a134",
+    "normalized_answer": 7.32
+  },
+  {
+    "id": "69cf3b2dad392a6924bad659f09c24ac",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "c1a83414a27bdf1cf1085e80a4c7c651",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "5c73a3593c413ef3bc59cab48d8a8378",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "7077837c95b0cb69b7843394c01b6f2a",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "9cdec5104658b35667045b5f564e40c3",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "dfc171fb88c10234d06cfc12a966af6c",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "bba325fcf7c2f71cae0a8bbabd21f463",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "0e66c980ff77849f881c5e41215d521f",
+    "normalized_answer": "0.9"
+  },
+  {
+    "id": "d8ee06aa5993e5b095b1684261d4a578",
+    "normalized_answer": 2
+  },
+  {
+    "id": "232b2dd8a696c03dbedae101a205c31f",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "1f9e3ad2b464d9e6c35298ccf3d1bcc8",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "1f79cb7d5795334170bd09a11d85b0fe",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "072572a0141b5eb94e5a43ed21ec07b6",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "c24500709f57c3b31f886daaeb7688b4",
+    "normalized_answer": 9.52
+  },
+  {
+    "id": "9707c1871c859e60395e2ddc3d72c16d",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "0cb371a544e43ffc016a881c15ea9095",
+    "normalized_answer": "12.3"
+  },
+  {
+    "id": "1a79baca33077db6ee2cd1f39e75dfa0",
+    "normalized_answer": "10.0"
+  },
+  {
+    "id": "912fc462f4393a02e407d8407853af4a",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "18e92f2c88012df14b3568754a303c03",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "9edc0c3ff1878f993a1920b175b74a64",
+    "normalized_answer": 3.12
+  },
+  {
+    "id": "457cd1e0255bc7f5492cc5df55ee952c",
+    "normalized_answer": 1
+  },
+  {
+    "id": "c0a7dfd3e409ddeca5168c4e4f80974b",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "2e19d85166956172156d04c23c4bb2a7",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "beb0f383fc021bbe2323b7c74493fd5c",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "69ad9a321dfabf33328febbd95b109e2",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "7be133dc3fef4ce99cc360a2833d1fab",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "3f8094183b3580f834af57a94253304f",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "fba62f41ad03e3895216930984a1bee2",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "c0c71639827e60d4cc5b4a15d015908d",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "6e1b7dc90961e468e54d5be399a5d9f6",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "0e972c816390191b63132b0c9bcf5667",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "d7fd02af699ddf582ab04ce80852fe94",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "9403f08c3c0bc3fa3603eaaf6e823453",
+    "normalized_answer": "3.8"
+  },
+  {
+    "id": "6be02ca60248924cfdc71fa010dbe894",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "61fb5a0a5ab463be125f96f31407732b",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "4d182636c0a6fcdc663b760fa2820e03",
+    "normalized_answer": 3.54
+  },
+  {
+    "id": "42c5d269d23cee5a8b829452f9628a01",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "5b0cf2f661529a22d9a65cb66fb8a895",
+    "normalized_answer": 15.21
+  },
+  {
+    "id": "c5ac6db868ef2874f331664f4ef90d00",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "a708342db4d73d732afcdbc7222f172d",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "3724787cd9a001d2f4580a0b2b715c10",
+    "normalized_answer": 11.0
+  },
+  {
+    "id": "c1412defe7a9a83645153c38468cec9a",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "6b3af9b49ec284cb4394707286dfe2ad",
+    "normalized_answer": 4
+  },
+  {
+    "id": "45c38deaa26b041fa4cd896ff9bc17f6",
+    "normalized_answer": 13.94
+  },
+  {
+    "id": "ee1e65f03b5fd584b3063aaf3a6c7e0f",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "0c4b2a1ef17c0f3133001a7baab366bf",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "293de1b667e2a66a7f0fa9c374c7e4e4",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "d5f616b4a37760287c04b6ff8fc8067b",
+    "normalized_answer": 4
+  },
+  {
+    "id": "ad81fe4535e9d340a889d20abc0bddf5",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "b90b959ea103ad9c889e5b7bab14f4e3",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "c841b1996adbc14510ad6861632360ce",
+    "normalized_answer": "9"
+  },
+  {
+    "id": "cb3b44243143af63af745bc30a3acd9e",
+    "normalized_answer": "18.6"
+  },
+  {
+    "id": "85e03a2eade0d76e4c62fd91ab8f0374",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "77691af40b1eafc66cc3b515bceb4716",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "3b4f8c724b3a2806bc04419a8d9f9689",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "ba73afb1693c24a0c6deee3f0867cc3a",
+    "normalized_answer": "1.6"
+  },
+  {
+    "id": "ed05c5c4069b387fb114cb3066495a3c",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "723f56c0b37f4eccc06a219916d3d7ee",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "28e282457e82e4be5a264bfe23830ada",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "436dd1e3034e00bb4adda86a4a4818a2",
+    "normalized_answer": 13.54
+  },
+  {
+    "id": "c5d91e7e0cb891e8732a75ff67c88ba7",
+    "normalized_answer": "16.8"
+  },
+  {
+    "id": "8051aec1816e7fea477c5bc66349f989",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "4b9ed2fa392f559b2289c7d647ae8687",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "5c0cb4e4cdb96244c79487c8f0a959b5",
+    "normalized_answer": 2
+  },
+  {
+    "id": "63debc5de3de1d3934462423362b298e",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "a76f67b7a2a740ae9d2eebf677fda2cf",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "2db6b111ec28ff88676da9edf1d266a1",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "0c56ab000e22da88b5ad3d17771c4da0",
+    "normalized_answer": 2
+  },
+  {
+    "id": "c789e2e5542fa706e236857509071ca8",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "c57cc56787b4ee3c70c14f6455533ac4",
+    "normalized_answer": "0.1"
+  },
+  {
+    "id": "795243de5e3e8914f8cf80324271ccd1",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "56e593e8be144f9add0891fd96313aad",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "65a7937af1efd3f354f60c021166b713",
+    "normalized_answer": 4
+  },
+  {
+    "id": "ebb55c9a217033d439792f350c3fed55",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "ac79e33cf45f0060a898232b18b98da1",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "e962baca22143d787e58625e0ae87d2c",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "c0e0d3e2710a022a63b5144b93fd1edb",
+    "normalized_answer": "9.6"
+  },
+  {
+    "id": "afcba25b59690d40f1cc8fc503d6b50f",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "53bcd96981616d452cbad16f4c00cbb8",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "1c7d2b45997fdcf56875c41c78cc8a5d",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "e80d80924d5d401dc20349c827508e5e",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "73eecf86e1b199d524c2812fa8060038",
+    "normalized_answer": "0.1"
+  },
+  {
+    "id": "59fa85a63b7ac6ac3fea397eec030d60",
+    "normalized_answer": "7.2"
+  },
+  {
+    "id": "98fbf1edf1c771314b6497f5c31c42ed",
+    "normalized_answer": 16.16
+  },
+  {
+    "id": "2fe71ed0c89040674d50a799a4156135",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "b8c216e4363a4938c7e44373bbd1442f",
+    "normalized_answer": 1.17
+  },
+  {
+    "id": "8310f1bfdc7dbc2202a4e62d685425b0",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "9b897062eab126f1a79b404cd59cbf50",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "0547518dc6e1645ef3c22df5ab60626e",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "bfc05ec990b05020fc57eec3aee54223",
+    "normalized_answer": 3
+  },
+  {
+    "id": "f053bfd21d60e743ee7b3dd2486d8816",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "731abb2617652fc6412ff32b2e7ad430",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "3ff16512d6350ee5a92e5c0c078abf4c",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "e1fb446ef97d560aa9c3954b6d692f87",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "ada7a9f92551229e58d4cacb03fb3586",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "99362713b2ec2f0ca4eda02772d7c140",
+    "normalized_answer": 8.36
+  },
+  {
+    "id": "be7fb858b2d76d72e6c38cfd85ba9b4c",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "f88eebd4fc594e91047409073d0187c2",
+    "normalized_answer": 2
+  },
+  {
+    "id": "54142a5df8d40fb376acf0809621f6ad",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "72c44fcd1acfdc3ea298a42953ca2dda",
+    "normalized_answer": 8.78
+  },
+  {
+    "id": "2d5b1181edca65bf064a44382ebffb7d",
+    "normalized_answer": "0.1"
+  },
+  {
+    "id": "1153d9fbe56f7a7053670c93b5421c49",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "b182e30dada17b5d2cd6192f9ded05a7",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "4ac32ccdc972d4e8a2385f1e4ecd167f",
+    "normalized_answer": 1
+  },
+  {
+    "id": "1036fd986c11766c4a96217bb6ae730e",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "889868765c7da5ec85fd91f4db4e0966",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "bd3f4c93df3b82c997944436a25c1463",
+    "normalized_answer": 3
+  },
+  {
+    "id": "c0f2a59668114f832864cc1f29bce975",
+    "normalized_answer": 12.63
+  },
+  {
+    "id": "e8bdd725b587580f85ae5f295a266c00",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "e50b27f419ea76481b7d491aa2c425ff",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "e21bc1866b39aa9b4a5ca3e050a1cc80",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "d7e4cd7f2aee1f7c17f56cf845ad195a",
+    "normalized_answer": 15.19
+  },
+  {
+    "id": "7939cf2cbf5cb73753dbb1efb8527314",
+    "normalized_answer": "9.5"
+  },
+  {
+    "id": "571150236699cbbee33c137c29f3779e",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "e732a31ff2862c0962829fe3ba75d1ff",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "8991c5d856e36a4e721ee74582bd26d6",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "c23accb886555ffc3a8c42acc4380b7e",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "d341d2333a9b6d222bfcfdaac6aa736d",
+    "normalized_answer": "5.5"
+  },
+  {
+    "id": "3c1060b0c60fa558d3b031b6bc67b1a7",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "5925b8d0e60601a466e172cbf2b0c27c",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "09f7f82473e4fa244cf9176f140124b9",
+    "normalized_answer": 4
+  },
+  {
+    "id": "da409be14f12ca91b31be30e9728c592",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "fd6e6ef2b6505bc0438c313f45a7b4f8",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "f9690fa5c8fd028dfd8ad43ce878491a",
+    "normalized_answer": 18.1
+  },
+  {
+    "id": "e4cecba5025cad70b106d7e3909f1ebf",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "9f2aa539c2d1a1602bb4a25301559b4e",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "d8b94da7f6e472513bcb5f706cb788b6",
+    "normalized_answer": "7.3"
+  },
+  {
+    "id": "461d2675e35865f75350d9852660898d",
+    "normalized_answer": 3
+  },
+  {
+    "id": "9fca13f30ba7bd12889e0d0d69ed3bd1",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "10819e700b035aaac6c7cdeebdefe0ce",
+    "normalized_answer": 2
+  },
+  {
+    "id": "f66aec2182e90379ba31a99f62c642e8",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "54089f2919051f0b8ad1ad1887ec1a16",
+    "normalized_answer": 2
+  },
+  {
+    "id": "7716e3409b6e89c1d69b6480440f971c",
+    "normalized_answer": 3
+  },
+  {
+    "id": "66cf5f8f687b048b145ff07198ba289a",
+    "normalized_answer": 2
+  },
+  {
+    "id": "4032a81bbb3b8fc5ba14a14a27f8177f",
+    "normalized_answer": "9"
+  },
+  {
+    "id": "7c3137cf2d96991bdb891f4eda60a8f2",
+    "normalized_answer": 4
+  },
+  {
+    "id": "d23197be10808e6e20aa3c143b1835cb",
+    "normalized_answer": 1
+  },
+  {
+    "id": "64b465cc66dc915272dce4f343cc6506",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "b95b437fe9d716b0598ec96b876d4cf1",
+    "normalized_answer": "9"
+  },
+  {
+    "id": "9dfff0a51c994cd4d648fdd4c171ad0f",
+    "normalized_answer": "6.0"
+  },
+  {
+    "id": "ed32cf48792cc470597826a6785b68f2",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "da1001172f1995919a21accd3ff091b2",
+    "normalized_answer": 4
+  },
+  {
+    "id": "25638e6157cf7aa14da5fc9b8edce04f",
+    "normalized_answer": 4
+  },
+  {
+    "id": "95d8f5e3f103b9939affad3173dbeb6b",
+    "normalized_answer": "9.5"
+  },
+  {
+    "id": "d6d887adecde3eda0ad058d91c3e277a",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "1f200b0842ca5a87f18b81e2f88ce1f7",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "8f15777c49735be1955d7224d08a87a9",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "5c1a6eda89c5180f650c41134ebd5e14",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "e41df3663ae5521555ca74e8876d6b60",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "8759210cbe43a3876ea2fae113829912",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "9ab80ec4d182a1774a80818a09962155",
+    "normalized_answer": 3
+  },
+  {
+    "id": "3dc5830de8ea55db2b03f89a200ef763",
+    "normalized_answer": 0
+  },
+  {
+    "id": "5f4b76a054e637c85030448a6aa3ff19",
+    "normalized_answer": 3
+  },
+  {
+    "id": "4912c784345db0885af595f361748688",
+    "normalized_answer": 1
+  },
+  {
+    "id": "2127aa2837e2341308b5f77e57d035a2",
+    "normalized_answer": "10"
+  },
+  {
+    "id": "15cef1fc97594154739420f466135cf0",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "cd33084caaf845eadb7e32ef3c31597e",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "7eca620b8a8260600b74187e1f014b7b",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "ad0bd04a916bd0612bac358bb216258e",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "c672d54dccca004510c67334aa44a51f",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "0fbb4b86c63814a99ba8c1d8c39aaa91",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "d58312bc85ddd159eac07a92e880cf4a",
+    "normalized_answer": "0.1"
+  },
+  {
+    "id": "46ae02a8617e86b285915c070b2d38aa",
+    "normalized_answer": "6.3"
+  },
+  {
+    "id": "99906f8deb04e787042fe74879d9ef11",
+    "normalized_answer": 13.98
+  },
+  {
+    "id": "e20e76267d165a862b7f4928c26b622a",
+    "normalized_answer": 2.47
+  },
+  {
+    "id": "72e62244cd819b15ef6b93bdfab007b9",
+    "normalized_answer": 4
+  },
+  {
+    "id": "d8506a044e79eb3a217c120fbb339a4e",
+    "normalized_answer": "1.0"
+  },
+  {
+    "id": "24bed58c0bba15d260fe9945a25c979f",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "1e244331f94667cf4f368df5fa90bf01",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "9ac7e9e818e6390fe0771a57d2bc53d7",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "f203741dd2264b0d787660cd6b364660",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "49decfea25ebb1056e9ed7b02ec73ca5",
+    "normalized_answer": 4.72
+  },
+  {
+    "id": "ec9f7d3853f68a8169239c407d0f4f8b",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "0c54db3e0c5a8fc0c7247dc6a6f8531d",
+    "normalized_answer": 6.07
+  },
+  {
+    "id": "674fae2aac769f8c9848f1931ecc8739",
+    "normalized_answer": 1
+  },
+  {
+    "id": "f731264d7041441023ba7c668c2ec257",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "76ba3af906e3ef8da36d144937ec4ec8",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "f68d109b2021fd4dc856a8a9d571d536",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "61444cf743cbfb9f170f29b713176114",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "cff21cff9499e2e28e6e3117de0f0749",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "a5aa3d8ad4bd87960b770f7337bc9c2d",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "03395d8323b0452e83559b3a9e4e8fe6",
+    "normalized_answer": 4
+  },
+  {
+    "id": "33386cb16fb7de85c269d642cb2dd844",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "ec893b269777395732492be30450ff59",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "d603784a243be8711c7e2f2dd6c9d256",
+    "normalized_answer": "2.0"
+  },
+  {
+    "id": "0fd3b25f2865f349861d4f19ec9103c7",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "7ffc4fea45d4592bc19567ffc4b88682",
+    "normalized_answer": 15.02
+  },
+  {
+    "id": "1e6b874ed78e22b4177c9dfa43026432",
+    "normalized_answer": "6.2"
+  },
+  {
+    "id": "503aae2cc8bc764ed3ccf96367189a8f",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "7a2a60e5bf41fb9899eccc133437de29",
+    "normalized_answer": 3
+  },
+  {
+    "id": "731dfad8fffcc9f78959bdae08785a84",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "764ce239d085e8cc24087dbc222d8023",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "15ba715edaa5d5a47f020038e6e45f95",
+    "normalized_answer": "10.3"
+  },
+  {
+    "id": "a566e82526c0abdcca8938220a9d8112",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "b72cabfc2d2ae81a594db2afd36e0617",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "ca2390e65a3f922e9505860ac54d2fab",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "30eba9971a174ca6898a8f6becc9f279",
+    "normalized_answer": "18.6"
+  },
+  {
+    "id": "2269f9b7b8c26cd885ccf2a82392fc9c",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "3180e1573ae22f0f7659fb3f0db67f7c",
+    "normalized_answer": 0.83
+  },
+  {
+    "id": "109630d75a7ef1c3e0d8eccd9388c0b7",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "7bcdb12d4620edd9a907238310227ee1",
+    "normalized_answer": "4.9"
+  },
+  {
+    "id": "b4b8e2c5ab62d8d091066be6e5d2fdf9",
+    "normalized_answer": 4
+  },
+  {
+    "id": "d215cb6e6aaf5266f489d8a1f6db5ab8",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "5c167a229f151cbcd5315346d8969823",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "9901f6e4c5b9dfde24a5149122a77ecd",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "68e50a0f0cb475fdbac222de496ca0d9",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "3cdcc7aa99cdb60e95037405da48d6c7",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "38441b38b773d9480c725ff416faf7e9",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "a37548b1b97b9052d238fb28a6c31622",
+    "normalized_answer": 4.69
+  },
+  {
+    "id": "79cee31a7ed7104124679c8f87628ffa",
+    "normalized_answer": 7.24
+  },
+  {
+    "id": "99285660d24e64036c4733994583b50e",
+    "normalized_answer": "5.8"
+  },
+  {
+    "id": "9ad71c90096ecfa04119d15b65935e8c",
+    "normalized_answer": 1.22
+  },
+  {
+    "id": "f19fca025b850868628f66aad070d169",
+    "normalized_answer": "2.9"
+  },
+  {
+    "id": "9a82d189acf02661bc5dab379b4654a4",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "8826413ee6794fdee6de9ebedfda0d70",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "01ca55327872f24d2cce80df808b5b02",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "7c71243afb2e50842dcd92d062f6d36e",
+    "normalized_answer": 3
+  },
+  {
+    "id": "cfe254f90645343af7862ac312a33285",
+    "normalized_answer": "4.6"
+  },
+  {
+    "id": "10ef16edc89fce5882e88e8dcc2b502a",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "3b663def6bf5e91cff47707884e7c5be",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "09cc7bc96ae87450637c0aa2681f3dbc",
+    "normalized_answer": 3
+  },
+  {
+    "id": "a4af23eff3b0936b98ca5c8ffd719eda",
+    "normalized_answer": "3.9"
+  },
+  {
+    "id": "35b36719a1ab8cab715f2425cff7f863",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "f70d1a4977bb8500a98e2ac33c2ba47c",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "2f12cb709be212064fc4b8b07bebb3bc",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "a7759789b1669e64b0b3338fc06204e9",
+    "normalized_answer": 1
+  },
+  {
+    "id": "8c9198e7c5d6ce76288f80c07c31b289",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "be18534f1b9a98a17085aacc5df98c77",
+    "normalized_answer": 3
+  },
+  {
+    "id": "2a01fcd9be6ef217b5e35603f00f989b",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "c6735d6d465c5d21614a084cb5076918",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "49bfffa50069701de61893ddb67f7adb",
+    "normalized_answer": "17.1"
+  },
+  {
+    "id": "dfa289b8b9e2bcde9e7ecd9769bbe123",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "c73563b795ec6276e555c722237be71b",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "4382b375bdd8a110bd7ef03eaceb1896",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "3a0c59b3e6964cabfb4f3c3fd394d348",
+    "normalized_answer": 10.91
+  },
+  {
+    "id": "f514c2368498bab3acebbd30e1999cd9",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "537e101ec75080f9ef21ea46c8a0681d",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "3122f2525df1c5ad0c4e9d5591eb6e72",
+    "normalized_answer": 3
+  },
+  {
+    "id": "994e4b9a99ea4a9a54111afccd99bb85",
+    "normalized_answer": 4
+  },
+  {
+    "id": "9adee4e0d446d42d15d8e425e2359bf1",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "72a592594f8b360e76cd44bbf2016d4f",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "e26594f7d662b1a1a58ca790790b0314",
+    "normalized_answer": 2
+  },
+  {
+    "id": "df42d04147553155448fa3534e4e7d03",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "9332d31d32fc72debb9caeeaa78df7ae",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "d8e2c32953a70369e0ca90d3694d2bc9",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "c8ba63181f4589588ddf830053a014f4",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "e5eee71b978920633ff66e76eb903aee",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "f31bbc2fa358020e1663dc17a5ce44e1",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "ec80c191d00932edd0e4ae5cdd23d741",
+    "normalized_answer": 4
+  },
+  {
+    "id": "0c312038696610d315f34672291c1bb6",
+    "normalized_answer": "1.3"
+  },
+  {
+    "id": "a6b2f836044a6a813b1e0bccce72aa56",
+    "normalized_answer": 2
+  },
+  {
+    "id": "1ee0d1641ed6febc5c49eedccd1de3ac",
+    "normalized_answer": 3
+  },
+  {
+    "id": "1b81be8801ce463df367c949bdf37062",
+    "normalized_answer": 15.07
+  },
+  {
+    "id": "0d9c61b1f5442210066f9aaa270f4202",
+    "normalized_answer": 2
+  },
+  {
+    "id": "bd0c811cc1078935a26bb7b5e48c9b35",
+    "normalized_answer": "10.1"
+  },
+  {
+    "id": "3206219a88cc598bb2baad285652a068",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "d72a3415c0c7016733f20dbe2e30665e",
+    "normalized_answer": "4.8"
+  },
+  {
+    "id": "c47fd17834237fe739c90098df9afc1f",
+    "normalized_answer": 1.5
+  },
+  {
+    "id": "8ba2cbe0e57a2ada3decc300dd32d7d9",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "3b57eeebc534f532907e08b0efeaf3e6",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "4ad1d96a75206b9840860405fdb851e3",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "ebaf36ec9914a684c2eb1a60b22d31b0",
+    "normalized_answer": "16.6"
+  },
+  {
+    "id": "7a50fc66ac6b4bf4ea438728d158c348",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "99dca063534ada9e137f29495ff027a5",
+    "normalized_answer": 3
+  },
+  {
+    "id": "c4bd933f64a8ae13ca118669d17fe40d",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "683024c1aaab4619228cbf6aad7e2c69",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "2ecbe3e388daabf0c3b64d1c575fbc1e",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "25fedb2aaad299e1a9d4892957ec0a8a",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "43544ffadb0711cfe05c96b6b5e50288",
+    "normalized_answer": 3
+  },
+  {
+    "id": "3918a5eebca7efd6729afd15f5ea4283",
+    "normalized_answer": 7.27
+  },
+  {
+    "id": "2c13122b6b7223773d56319abd2de1aa",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "8a63af4a687397c52364961de6e4b9e6",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "6c87f24f3132f75528cad9741b69651f",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "5578b4fc9247e0ee3639509aba27dda2",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "20fa79a888af0f9c9df59c0d49ba724e",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "54706ff3e3a77d5ef9576b6054619094",
+    "normalized_answer": 4.5
+  },
+  {
+    "id": "f070425cec9cc691f9a611aef673af05",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "b0c9842ff450caae731129a7c1ddddf0",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "92aaf53d08373e35e9bb20aea9f5eccb",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "1d5c0a760a80060e22b1b5d87f34dea8",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "1cfde3c03b28b4ab33813f58424e8374",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "9bf2985db7bd7f1418282b757637871b",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "0d112def5f9006b3807d527313c5bbc3",
+    "normalized_answer": 2
+  },
+  {
+    "id": "0e2255b6cf39d6ef5b9d8a5d5535d3b2",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "86da6af79951b4754b1e875951f949fc",
+    "normalized_answer": "10"
+  },
+  {
+    "id": "92307022017c3cbbc3a88aba07947e77",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "22a14442cec76300979e49bfd202ee75",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "7dbe151748d3527db94db11d0b43520f",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "c66d1d85effc5ff730cb2cee07c05075",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "c7a074118e5fcd7a59d13bcbddf482ea",
+    "normalized_answer": 3
+  },
+  {
+    "id": "a7605bf17b54828ce90a8642174087f2",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "399d52df5b01f380dd08a3a738d28fb5",
+    "normalized_answer": 3
+  },
+  {
+    "id": "ca947537a1398572dc4619bf9de8cdc8",
+    "normalized_answer": "16.6"
+  },
+  {
+    "id": "a1ca41928418ee213543e6da74bbe755",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "cad2384398c220729f1c336765543e6f",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "a0025d2f21e4b1c42b0d5e3f8a7b9e9d",
+    "normalized_answer": "7.2"
+  },
+  {
+    "id": "02ed28e71cc13d1b5a01a5b6da5e1337",
+    "normalized_answer": 2
+  },
+  {
+    "id": "516b2619c42d988c1b487ecd7c38505a",
+    "normalized_answer": 4
+  },
+  {
+    "id": "55e4e6e066a433a6cf82b5d5dfbe041f",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "d9689d064c20301919772fde60b29ea1",
+    "normalized_answer": 10.77
+  },
+  {
+    "id": "3c9ebedd0a10784706ba2384c06cd009",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "105527e38355d1eebe04844663b9937a",
+    "normalized_answer": 4
+  },
+  {
+    "id": "c268d8437f37672d5da9e7d73926dc91",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "01ebbc3088fa85b5ffb457816a565098",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "a47b6b2a3a97ac6afb5897060f56dd39",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "4563b3144a723f05111a2c49f379c349",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "59c8750647ae22357e7c6d96443e76a7",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "05129f792d022ff1ec29d9367f7b0789",
+    "normalized_answer": "1.9"
+  },
+  {
+    "id": "dfc9780eac461a315f2c8345920b0188",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "fe76b30676f28de81e4806b7e966a88d",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "fe6e6f47c5e44008852cdfa974c18d64",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "99eb84a787b38115015bc097e2998451",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "e52ee26624222bef24bd03e5e4cd424e",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "58f68f81e89ae7dfbf2f863e60f10671",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "cb7d147b8d7fb8e396437c97119567f1",
+    "normalized_answer": "0.1"
+  },
+  {
+    "id": "0e9bfd2fe92782e0e53d95857630f6bd",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "d0eac2f0fbf60d5854de5d542f9c3237",
+    "normalized_answer": 2
+  },
+  {
+    "id": "9a3780a659ce85047807b2f4524dfc69",
+    "normalized_answer": "9"
+  },
+  {
+    "id": "355a5abb81d15aeb4038f57931460a03",
+    "normalized_answer": 1
+  },
+  {
+    "id": "c2d259bb6b9df6fecdfd1256f1d24fc2",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "329347b108554f2e059eea3ddaae9225",
+    "normalized_answer": "9"
+  },
+  {
+    "id": "f2ebdd62a985833cbec64cd9e8cc69d5",
+    "normalized_answer": "18.5"
+  },
+  {
+    "id": "8db33912853f7d7cd53abda90090ecbc",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "a57de7b6483bda928e1272b433189929",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "683f641237b1f84839d95308852c2513",
+    "normalized_answer": 4
+  },
+  {
+    "id": "2b1f8b090a0bedaaba9fe7a3336cc3b1",
+    "normalized_answer": 9.08
+  },
+  {
+    "id": "04d2d4ca33e43d59501678f3bb410bf5",
+    "normalized_answer": 1
+  },
+  {
+    "id": "d83d43c0d65de85b46aba80a04da0f1e",
+    "normalized_answer": "2.5"
+  },
+  {
+    "id": "f2e9ad6566205471458cdb7a566404d4",
+    "normalized_answer": 0
+  },
+  {
+    "id": "f792f958ea8d915c09bda7b86888cef5",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "fc0ef4799b0a6154e23ae7fec991afdd",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "afe1d532499853dd80a2c90e584e720c",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "208efaa5d1ac6c5230c69c7c9a4bc23d",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "2f54dc7ee585f7a796941c55e162ccc8",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "7d82e0e7f0cf424bea6494c8d9af7f96",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "3812aabb32b1ca933c59feefa2effcb5",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "feb992fbe42bb192c294a539e515351a",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "048007b83de1e7b3113905fa243d9019",
+    "normalized_answer": 2
+  },
+  {
+    "id": "18731500480fc9b5b14dbb8f6602311c",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "135ae3b5e2362529154fd6365a4d8f1a",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "aa5495813c2d4a8b90138960a2c9dd06",
+    "normalized_answer": 4
+  },
+  {
+    "id": "005e3c6831699be776fdaa3cee0b29b8",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "4874e0c871d72bd5eebe83b7ecdf78fa",
+    "normalized_answer": "11.3"
+  },
+  {
+    "id": "1c3c2cc7ce2d91bc0e6d4f96e5ce1cdb",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "fce259cdb188739de7050c6f315e92cc",
+    "normalized_answer": "3.7"
+  },
+  {
+    "id": "9b926702be585738d00703324a8446bd",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "ba86d55df126f8a1ccfc34738f3ef57a",
+    "normalized_answer": "2.4"
+  },
+  {
+    "id": "16b5828f267a580b6ff731e9b53eabd8",
+    "normalized_answer": 1.69
+  },
+  {
+    "id": "84c17fb92e3f75721dd37b724f16b628",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "39ef513eb67289a88b302dc1ef75db2a",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "b4fc25128b91378384849ecd9417da8d",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "df24b1db5e3bc1d6b4100b1c69e5f45a",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "a2bb871d187e8d6f198048279416ca41",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "f3deb9443f820451d97f7ae6437fc983",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "1559c56c3bdf55d973940a39a70faddb",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "784f19ac55ed291bac35eac41b90a282",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "591b00cdc4d4e87b28a9b5632050d6b3",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "b31db1e538d2e70b08c6bcf65d651828",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "6d2acec1611560017787cefdc5405fff",
+    "normalized_answer": 4
+  },
+  {
+    "id": "ff2727c21152ec7f1bbabbe82a1a3476",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "159aecd3c0595d5d340aee06fe69cff9",
+    "normalized_answer": 2
+  },
+  {
+    "id": "c3618864db5cae8ab01abc502516d314",
+    "normalized_answer": "9"
+  },
+  {
+    "id": "07360ce1aa90b9690534a74f80b05054",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "3b7645ff9047c43b98a4483f6ba4c936",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "9a03dbc6fa63f1b1f575b05a3e754c86",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "964e01e69997b34659b33da8c8844f9e",
+    "normalized_answer": 9.45
+  },
+  {
+    "id": "79e8ed8e4b3f932d1e1966659a9595c0",
+    "normalized_answer": "4.9"
+  },
+  {
+    "id": "39b5093028d419a9f5d7cbeccdafebdf",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "5f711b12bb1db402416778b5debc3687",
+    "normalized_answer": "2.9"
+  },
+  {
+    "id": "78eec69d9077b6009deb2bcd53c70241",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "dfd61c3dbe63dd7659e96451f3963f60",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "7df63b0581a566c7985a093bd9d82143",
+    "normalized_answer": "12.0"
+  },
+  {
+    "id": "679a7e6027d654003c7803be136efb93",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "df15c2653c96839ae600eaebb662d79b",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "aec295f97dd210bd2217692f70545eae",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "7d35579f9519a625e6703f7934c79bbe",
+    "normalized_answer": 14.93
+  },
+  {
+    "id": "caf5cb8f1dcfbcac1c9c95cd2095e980",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "706f429ef62f553dc5cdedfb64561b65",
+    "normalized_answer": 14.21
+  },
+  {
+    "id": "025652946609ed0a3eba8f3502e56878",
+    "normalized_answer": 1
+  },
+  {
+    "id": "c9f2f22fdecb79498a08d4a8c5af078e",
+    "normalized_answer": 8.3
+  },
+  {
+    "id": "8df9ebedc87265ce26a3e8b335284a65",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "1d2a63aab654435b9e8612dcef1a4eca",
+    "normalized_answer": 6.68
+  },
+  {
+    "id": "926da91e9b303520c5601c439f1b50d0",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "4a517ef74dedc482a5dc129e2b2b2328",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "45efd9c3c3c456bfffc3a33f8f942d98",
+    "normalized_answer": 3
+  },
+  {
+    "id": "e1037aba1e798cac82b10f42a579726b",
+    "normalized_answer": "9.5"
+  },
+  {
+    "id": "24b7b82c2ba7912afa866d2d04b6d180",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "a8f187a4c8c6645fcab252b60b4e0c93",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "e96dc2a7f53425a803b121781fd08b76",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "e97cd3081495d2cd68a19246b10fd68d",
+    "normalized_answer": 3
+  },
+  {
+    "id": "a360610bf6040c04fd84954385416766",
+    "normalized_answer": 2
+  },
+  {
+    "id": "bea6c01ddb0a349773973f28fa12b9fd",
+    "normalized_answer": 14.67
+  },
+  {
+    "id": "e501f74b19767b8a270c6cdf86a63118",
+    "normalized_answer": "7.3"
+  },
+  {
+    "id": "f3c62f9454b54c92b4bfeaad282a8880",
+    "normalized_answer": "15.8"
+  },
+  {
+    "id": "d46de9dfc9e331990ad973d26c1d613d",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "bf9a06172ace9add4f8aa0d9f0f2a201",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "3cb2889f52fb688db01edcb51fb0bcd8",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "21fb59a3255cf183fa07646fad258a94",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "39cb466ff7285a117afc72c766a8b8d4",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "e182764868c8e9b165c056b460ee2a56",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "6010b254a764d6d290510c57f9c5bf6e",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "69adadf55fafe07309c2d13f7a86cb34",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "5803570d9d88db68d174b908750bb5ef",
+    "normalized_answer": 11.45
+  },
+  {
+    "id": "55795f4de491047f6b289235ba30db16",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "80da33ed76ea5215dbd0e51093cec8ff",
+    "normalized_answer": 3
+  },
+  {
+    "id": "146d1b193d9f73ade7e03c8fca642f51",
+    "normalized_answer": "6"
+  },
+  {
+    "id": "1b4aa72dd6646df7470a63b3c9041004",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "0237073fc6ae3656cca4c0e25864f98c",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "e10c27191c2c5291a147fd13712b7ad4",
+    "normalized_answer": "18.0"
+  },
+  {
+    "id": "10743f4759680616cf8c24837d9dd1eb",
+    "normalized_answer": 1.42
+  },
+  {
+    "id": "517b6bd988815520b519555cbaee7f9d",
+    "normalized_answer": "10.3"
+  },
+  {
+    "id": "2317b5b144750a42025e60dc0ff8fbbd",
+    "normalized_answer": 1
+  },
+  {
+    "id": "f836367a235e6ea0d04923f992f99fd4",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "c025ba1d7861355c94223e6d7b4fcb93",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "37f09d9783ff77c1648d867d205d614b",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "a3c556c6a6433c089b65e8caa85794ec",
+    "normalized_answer": 1
+  },
+  {
+    "id": "18ccf760c511375b317fd8fe19ddb2f8",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "6ecfeedd37d4816c65999028ae5745ba",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "071c23057a77ccf4214c418a5dd94345",
+    "normalized_answer": 2
+  },
+  {
+    "id": "cbe36cce9caee652d46d9b413fa1abc0",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "ba613c4f11997833a5b5909b4077483f",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "a9579e905a4f89410555f4a3c2425e59",
+    "normalized_answer": "8"
+  },
+  {
+    "id": "dd13b4a5d2cd954eab7516759790bdda",
+    "normalized_answer": 14.77
+  },
+  {
+    "id": "c730f91ee39320ec31f46035f8ce6560",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "88ad3efb82446873f68af62588e6a80a",
+    "normalized_answer": 3
+  },
+  {
+    "id": "7e83eb40ee89cbfd754b2ca0adbe2d15",
+    "normalized_answer": "8.0"
+  },
+  {
+    "id": "b7aa294cfc9af5e8212dcdbe2c2bacd3",
+    "normalized_answer": 10.47
+  },
+  {
+    "id": "83a58199e7f37ecd5a18ccfc93a8a312",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "4c6c06450b9e8523ab045af68e8cce13",
+    "normalized_answer": 9.76
+  },
+  {
+    "id": "9eb8070c4465b8ddc010bf25b652e3bc",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "dc8b875fe709f55df86437d5e89538ba",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "592580a43eac40c8c054cc4deca2cc01",
+    "normalized_answer": 8.28
+  },
+  {
+    "id": "2d4fad51209aac5d7d84a7bbf1cf1a6d",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "6b805663c8ea957f4b1137ea527a709d",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "6eebf3f614597c1cfbf0766420b4400f",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "00b3b0b7c9e3969b0c16bd7dc3ba586c",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "4cf6fe10cd7b2a47df341bbba819ce62",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "ee84b37704fdc0adcc81ce316fac111a",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "fa0b85694bd562724acb5096937c8d9e",
+    "normalized_answer": 2
+  },
+  {
+    "id": "fccb17b6e3ce01e450b3206cda82a264",
+    "normalized_answer": 0
+  },
+  {
+    "id": "709449897ef0ff4ad31bb9606b13836a",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "1c0de8ea08ecd0e907997a3ed5a5e9e3",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "2439874edd9dae96c64b03e10e49a752",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "ee6b2709d6f50df54825cad05e2d0486",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "1d795a597b91ff268e3b963a0b598662",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "ab18da421c7f074123f1a6bc19522f7d",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "f24e09c3e20147c45dccaac4ff9e1c3d",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "1fd2d6d5a2d2a1d33c08a90b297d594b",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "abe6089e7c87b8a9d2269400e7f72aa8",
+    "normalized_answer": 9.81
+  },
+  {
+    "id": "f18b26f69f7d131ad220b59ef3b38393",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "ae8620f7e152f32927d032a1c53cc592",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "24f62ff7c017e7bcf0793b35f379b368",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "a19f0b2d37996b4c91c64b0256afcb4b",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "8a5811c4af61f6db5af8cbaa054a8386",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "8a613985242727210614b6b0c5caa8b4",
+    "normalized_answer": 0
+  },
+  {
+    "id": "220587dccbd574e35e8b1336d27aafaf",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "0303714a14c9354697f29eb5eea4eb96",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "2ac76360dfa1b22f746d812168ff6d11",
+    "normalized_answer": "3.2"
+  },
+  {
+    "id": "1cfbc35a3ba59b54817052ce8220fc35",
+    "normalized_answer": 1
+  },
+  {
+    "id": "119ada452bf4e0bb1f7e8971859a18d9",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "31126211fd718e86e3ce54d53115f016",
+    "normalized_answer": 8.53
+  },
+  {
+    "id": "4972a393a4c4f6a4a96afc4c3bf8155b",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "c40933a2271b7331ace3ae914e13ea69",
+    "normalized_answer": 4
+  },
+  {
+    "id": "d62c76cd629b60943b9c17161be4048d",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "74a1745c36e1f5a6eed9c354a2b68e64",
+    "normalized_answer": "11.1"
+  },
+  {
+    "id": "01e5edab0dea2d2bbb6857d3c9ec8540",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "3700a470963480b5f6980e87254a9f84",
+    "normalized_answer": "1.6"
+  },
+  {
+    "id": "049d8f9a337fc79effd05082f92756da",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "0a73bbb1338e9ca140ee9c90caab7327",
+    "normalized_answer": "7.1"
+  },
+  {
+    "id": "f8db5bae333033fb44c95d671eccfdcf",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "84a00155f79e04cfc7205ffdf3b1c288",
+    "normalized_answer": "3.1"
+  },
+  {
+    "id": "e41a58156d66d3262605cdff5743bf04",
+    "normalized_answer": "1"
+  },
+  {
+    "id": "3ca4201aeb7565b1d9867d404d73aeed",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "d5c31b1f231c3c37961fddd3fe018006",
+    "normalized_answer": "9.0"
+  },
+  {
+    "id": "622aa24695c47613cb1a7bf02c7ee45e",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "86054f0b8e4a29a516e4fe4622706e0a",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "444bb726d27306c7e00b6728b8952373",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "2be898aae1761e3f1d09df91a6813b63",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "c37e04e4466bc2821fdd4b9a6cbdb6c4",
+    "normalized_answer": "0.3"
+  },
+  {
+    "id": "28362cbdc8b6d5b4fe989bd1cf5498a5",
+    "normalized_answer": "5.5"
+  },
+  {
+    "id": "a4ec73f28f04e7a49579e52644196bc3",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "a02d81c75166c1cd9eebb406c95d9d7a",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "7e3233d46a89b0246abd28216d5e8a5b",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "dcf73c61ee5d065747de3f26124aba51",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "c37cdd676f85887796ed0c30024f660a",
+    "normalized_answer": 4
+  },
+  {
+    "id": "ebe2c77f03e24c31a567f24f016d4e9d",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "ff1459304193f07f817dde1a79ca4652",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "6886c7bbceb21d8e4ae7e85b2ff8f5ec",
+    "normalized_answer": "10.1"
+  },
+  {
+    "id": "ae333304c2b6e2f315acacc73c305912",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "d82797fc8526e011d75156ddd91d1bed",
+    "normalized_answer": 8.15
+  },
+  {
+    "id": "44ecca960ac5ae26bb3fd031c32950cb",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "96e16aabb53d2b137c8e5b2ece0849f4",
+    "normalized_answer": 7.68
+  },
+  {
+    "id": "596392cadb89a5835d5f6e7fb87376fa",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "2c8432b8cc193123c357a08ef6db15dd",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "5ebbbf59a35070e85d53d9762f6dafc5",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "76c7b865b5e57d904e7833ff24c5b567",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "5d334495cb4416b6e6aa9e5eaac14a0a",
+    "normalized_answer": 3
+  },
+  {
+    "id": "6d7d0e897afedaeb283a952a58765c67",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "8b44aa8ae002254c7e1d974421d4d0ff",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "44935cc9420be2687643e8da4fed1986",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "d014849e04582482a43b7101f5ae8a60",
+    "normalized_answer": "9"
+  },
+  {
+    "id": "bde037958df483a4af3e5b756273d7d4",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "3e2b0ef9cab5cf2ea7f4d4fd0ace8ec5",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "3115ccf47d0c130e7a3a3c0d5499685c",
+    "normalized_answer": 2
+  },
+  {
+    "id": "8f238919655e9ab43d7b6d4eec9f451b",
+    "normalized_answer": "3"
+  },
+  {
+    "id": "43fe6f0299311fa929720feeb089723f",
+    "normalized_answer": 4
+  },
+  {
+    "id": "a4d003ab2a8c1907e333cf95eba799cc",
+    "normalized_answer": "8.9"
+  },
+  {
+    "id": "a833caffd7dd07f3d5147034850e656b",
+    "normalized_answer": "5"
+  },
+  {
+    "id": "1bd0c0d152cb38dbac13662080529a85",
+    "normalized_answer": 2
+  },
+  {
+    "id": "0ae290a86395ea1374d7a48991120e59",
+    "normalized_answer": "7"
+  },
+  {
+    "id": "f55d413f6d614d969bd75f7efa678bb4",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "1f26313ea0d50b9db9238b0afbc6ca7e",
+    "normalized_answer": "right"
+  },
+  {
+    "id": "15a254b3a587eb6f698423dc01165e52",
+    "normalized_answer": "0"
+  },
+  {
+    "id": "12ef9e7d780a7c34b9ca237ea72901d4",
+    "normalized_answer": 2
+  },
+  {
+    "id": "b1c7c7c0f19dd3b65a3eb85e176d3c48",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "81d8871656e3bb92d97909e6d4fb2ce9",
+    "normalized_answer": "2"
+  },
+  {
+    "id": "670d66b390c7eb3d7b8e7283b43be844",
+    "normalized_answer": "4"
+  },
+  {
+    "id": "90a874c689c07c9d4c368290a2d0ca13",
+    "normalized_answer": "13.8"
+  },
+  {
+    "id": "1fc881c1b4ac349da4e6ff66bc99f006",
+    "normalized_answer": 14.16
+  },
+  {
+    "id": "bd87d163d7db791a1475f6570ab9ce90",
+    "normalized_answer": "left"
+  },
+  {
+    "id": "43a023b5928096ed67cd115f43a93333",
+    "normalized_answer": 4
+  },
+  {
+    "id": "d633f7e4fd6a17e624149f0f6020f726",
+    "normalized_answer": 2
+  },
+  {
+    "id": "f35fd7e55de1ab75667b242c91b77fda",
+    "normalized_answer": "1"
+  }
+]

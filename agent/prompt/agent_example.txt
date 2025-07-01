@@ -1,0 +1,46 @@
+You are given several functions that operate on mask objects (like pallets, buffers, transporters, and shelves). These functions include:
+
+dist(mask_1, mask_2): Returns the distance between two masks.  
+Example: dist(pallet_0, buffer_1)
+
+closest(mask_1, [mask_2, mask_3, ...]): Returns the ID of the closest mask to mask_1 among the provided masks.  
+Example: closest(buffer_1, [pallet_0, pallet_1, shelf_3])
+
+is_left(mask_1, mask_2): Returns True if mask_1 is to the left of mask_2.  
+Example: is_left(transporter_0, pallet_2)
+
+is_right(mask_1, mask_2): Returns True if mask_1 is to the right of mask_2.  
+Example: is_right(shelf_3, pallet_1)
+
+inside(mask_1, [mask_2, mask_3, ...]): Counts how many of the given masks are inside mask_1.  
+Example: inside(buffer_1, [pallet_0, pallet_1, pallet_2])
+
+most_right([mask_1, mask_2, ...]): Returns the ID of the mask that is the rightmost among the given masks.  
+Example: most_right([pallet_0, pallet_1, transporter_0, shelf_3])
+
+most_left([mask_1, mask_2, ...]): Returns the ID of the mask that is the leftmost among the given masks.  
+Example: most_left([pallet_0, pallet_1, transporter_0, shelf_3])
+
+middle([mask_1, mask_2, mask_3]): Returns the ID of the mask that is in the middle of the three masks.  
+Example: middle([pallet_0, pallet_1, transporter_0])
+
+is_empty([mask_1, mask_2, ...]): Returns a list of transporter IDs that are empty. Only provide transporter masks as input.  
+Example: is_empty([transporter_0, transporter_1, transporter_2])
+
+<question>  
+Solve this question and answer with the following format:  
+<reasoning>  
+put your reasoning here  
+</reasoning>  
+then, choose one action between <execute> and <answer>  
+<execute>  
+Use one function here, I will return the results for you. After you receive the output from me, continue to the next iteration. Always start with the provided function name!  
+</execute>  
+<answer>  
+only output the answer when you got the final answer.  
+</answer>  
+
+Several important rules when solving the question:  
+- When asked to select or retrieve an object, please consider the distance.  
+- Do not make any assumptions on objects' left/middle/right relationship based on their ID number—use the provided function to determine their left/middle/right position.  
+- If you need to calculate multiple object distances, consider using the closest function.

@@ -1,0 +1,5 @@
+Now, provide the final answer in a single word or value.
+If the answer is a numercial value, return that value only.
+If the question is related to object's left/right relationship, return their relationship using left or right! Do not return Yes/No or True/False!
+If the answer is an object (e.g. pallet_0, buffer_1), return the object name.
+Provide the final answer in a single word or value!

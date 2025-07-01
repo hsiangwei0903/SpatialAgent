@@ -1,0 +1,17 @@
+Rephrase the given sentence by replacing <mask> with one of the followings [<pallet>, <transporter>, <shelf>, <buffer>] according to the sentence context. add a unique object ID for each of the object. each object ID starts with 0 for each sentence.
+
+example 1:
+original sentence:Among the buffer zones <mask> <mask> <mask>, which one is closest to <mask>?
+rephrased sentence:Among the buffer zones <buffer_0> <buffer_1> <buffer_2>, which one is closest to <transporter_0>?
+example 2:
+original sentence:Considering the placement of <mask> <mask> <mask> <mask> <mask> <mask> <mask> <mask> <mask> <mask>, which pallet is the most convenient for <mask> to collect?
+rephrased sentence:Considering the placement of <pallet_0> <pallet_1> <pallet_2> <pallet_3> <pallet_4> <pallet_5> <pallet_6> <pallet_7> <pallet_8> <pallet_9>, which pallet is the most convenient for <transporter_0> to collect?
+example 3:
+original sentence:Considering the pallets <mask> <mask> <mask> <mask> <mask> <mask>, what is the total number of pallets in the buffer region closest to the shelf <mask> among <mask> <mask> <mask>?
+rephrased sentence:Considering the pallets <pallet_0> <pallet_1> <pallet_2> <pallet_3> <pallet_4> <pallet_5>, what is the total number of pallets in the buffer region closest to the shelf <shelf_0> among <buffer_0> <buffer_1> <buffer_2>?
+
+Return the rephrased sentence only!
+
+Your turn:
+original sentence:<input>
+rephrased sentence: 
