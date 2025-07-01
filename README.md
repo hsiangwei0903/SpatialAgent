@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="asset/logo.png" alt="SpatialAgent Logo" height="100"/>
-</p>
-
 # SpatialAgent
 
 **1st Place Solution of the ICCV 2025 AI CIty Challenge, Track 3.**
