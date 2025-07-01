@@ -1,6 +1,15 @@
-# SpatialAgent
+<table>
+  <tr>
+    <td><img src="asset/logo.png" alt="Logo" height="60"></td>
+    <td><h1 style="margin-left: 10px;">SpatialAgent</h1></td>
+  </tr>
+</table>
 
-1st Place Solution of the ICCV 2025 AI CIty Challenge, Track 3.
+**1st Place Solution of the ICCV 2025 AI CIty Challenge, Track 3.**
+
+<p align="center">
+  <img src="asset/leaderboard.png" alt="Leaderboard Result"/>
+</p>
 
 ---
 
