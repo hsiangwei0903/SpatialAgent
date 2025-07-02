@@ -73,7 +73,7 @@ cd agent
 python agent_run.py --project_id <your Vertex AI API>
 
 ```
-Additionally, some QA might failed because Gemini return invalid format or answer, run again with thinking mode enable can solve this issue. 
+Additionally, some QA might failed because Gemini return invalid format or answer, run again with thinking mode enabled can solve this issue. 
 Running this command will re-run those failure cases.
 ```
 
@@ -96,7 +96,7 @@ python utils/question_rephrase.py
 
 We provide the pre-trained model checkpoint, but we also provide the training script of our model as follows.
 
-### 1. Train the distance-estimation model
+### 1. Train the distance estimation model
 
 ```
 cd distance_est
