@@ -1,10 +1,13 @@
 # SpatialAgent
 
-**1st Place Solution of the ICCV 2025 AI CIty Challenge, Track 3.**
+**1st Place Solution of the ICCV 2025 AI City Challenge, Track 3.**
+
+📄 [Paper on arXiv](https://arxiv.org/abs/2507.10778v1)
 
 <p align="center">
   <img src="asset/leaderboard.png" alt="Leaderboard Result"/>
 </p>
+
 
 ---
 
